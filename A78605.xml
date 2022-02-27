@@ -1,0 +1,802 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The charge of high treason, murders, oppressions, and other crimes, exhibited to the Parliament of Scotland against the Marquess of Argyle and his complices, January 23. 1661.</title>
+            <author>England and Wales. Sovereign (1660-1685 : Charles II)</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1661</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 79 KB of XML-encoded text transcribed from 17 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A78605</idno>
+            <idno type="STC">Wing C2056</idno>
+            <idno type="STC">Thomason E1083_1</idno>
+            <idno type="STC">ESTC R207960</idno>
+            <idno type="EEBO-CITATION">99866974</idno>
+            <idno type="PROQUEST">99866974</idno>
+            <idno type="VID">169356</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A78605)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 169356)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 161:E1083[1], 249:E1083[1])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The charge of high treason, murders, oppressions, and other crimes, exhibited to the Parliament of Scotland against the Marquess of Argyle and his complices, January 23. 1661.</title>
+                  <author>England and Wales. Sovereign (1660-1685 : Charles II)</author>
+               </titleStmt>
+               <extent>[2], 31 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Richard Lowndes, at the White Lion in St. Pauls Church-yard, near the little North doore,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1661.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Dated at end: Given under our Signet at Edinburgh, the twenty eighth day of December, and of our reign the twelfth year, 1660.</note>
+                  <note>Annotation on Thomason copy: "feb: 18. 1660"; imprint date crossed through.</note>
+                  <note>Reproductions of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Argyll, Archibald Campbell, --  Marquis of, 1598-1661 --  Early works to 1800.</term>
+               <term>Treason --  England --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Charles II, 1660-1685 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-09</date>
+            <label>Jayanthi Reddy</label>Sampled and proofread</change>
+         <change>
+            <date>2012-09</date>
+            <label>Jayanthi Reddy</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:169356:1" rendition="simple:additions"/>
+            <p>THE CHARGE OF HIGH TREASON, MURDERS, OPPRESSIONS, And other CRIMES, EXHIBITED To the Parliament of <hi>SCOTLAND</hi> AGAINST THE Marqueſs of Argyle And his COMPLICES, <hi>January</hi> 23. 1661.</p>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>Richard L<gap reason="illegible" resp="#UOM" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>des,</hi> at the White Lion in St. <hi>Pauls</hi> Church yard, near the little North doore. 1661.</p>
+         </div>
+      </front>
+      <body>
+         <div type="document">
+            <pb facs="tcp:169356:2"/>
+            <pb n="1" facs="tcp:169356:2"/>
+            <p>
+               <seg rend="decorInit">C</seg>HARLES by the grace of God. King of Great <hi>Britain, France,</hi> and <hi>Ireland,</hi> Defen<g ref="char:EOLhyphen"/>der of the Faith, To <gap reason="blank" extent="1 word">
+                  <desc> _____ </desc>
+               </gap> Heralds, Purſi<g ref="char:EOLhyphen"/>vants, and Meſſengers of armes, <hi>reſpective,</hi> conjunctly and ſeverally, ſpecially conſtitu<g ref="char:EOLhyphen"/>ted, Greeting. Forſomuch as it is humbly mean'd and com<g ref="char:EOLhyphen"/>plain'd to US, by our truſty and well-beloved Counſeller, Sir <hi>John Fletcher</hi> Knight, our Advocate for our intereſt, in the a<g ref="char:EOLhyphen"/>ction under-written; and by Sir <hi>James Lamount</hi> of <hi>Inneryue</hi> Knight, for himſelf and in the behalf of his kindred, friends, Vaſſals, Tennants and Servants, <gap reason="blank" extent="1 word">
+                  <desc> _____ </desc>
+               </gap> parties grieved and damniſyed in manner after ſpecified, upon <hi>Archibald</hi> Marqueſs of <hi>Ar<g ref="char:EOLhyphen"/>gyle; George Campbell</hi> his Juſtice and Sheriff Deputy: <hi>James Campbell</hi> of <hi>Ardkinglar</hi> Officer under the ſaid Marqueſs his command; <hi>Colin Campbell</hi> of <hi>Stra<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>uhir, Duncan Campbell</hi> of <hi>E<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>angreg.</hi> Officer under the command of the ſaid Marqueſs; <hi>John Campbell</hi> Fiare of <hi>Dunstafneich,</hi> Officer alſo under the ſaid Marqueſs's command; <hi>Dongal Campbell,</hi> alias <hi>Mackcon<g ref="char:EOLhyphen"/>nichie</hi> of <hi>Innerram.</hi> Officer under the ſaid Marqueſs's com<g ref="char:EOLhyphen"/>mand; <hi>Du<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>can Campbell,</hi> Uncle to the Laird of <hi>Lochnell,</hi> Officer under the ſaid Marqueſs's command; <hi>Robert Campbell</hi> of <hi>Auchimwilling, John Campbell</hi> of <hi>Ardtariche, Hew Campbell</hi> his Son; <hi>Colin Campbell</hi> of <hi>Otter, Patrick Campbell</hi> his Bro<g ref="char:EOLhyphen"/>ther; <gap reason="blank" extent="1 word">
+                  <desc> _____ </desc>
+               </gap> 
+               <hi>Campbell</hi> of <hi>Derburgh, Charles Campbell</hi> of
+<pb n="2" facs="tcp:169356:3"/>
+               <hi>Ballach<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ll, E<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>er Campbell</hi> of <hi>Kilbryd</hi> his Brother; <hi>D<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>e <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> Glaſie,</hi> alias <hi>Campbell</hi> in <hi>Glead<gap reason="illegible" resp="#PDCC" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>ell, John Ger Campbell</hi> there: <hi>John Ma<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>k<gap reason="illegible" resp="#PDCC" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>
+               </hi> Officer to the ſaid <hi>George Campbell, D<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>nald <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>
+               </hi> of <hi>Glenſel<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ech. Andrew Macklaneidan<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>.</hi> Uncle to <hi>Archibald Marklanchlant</hi> of <hi>Lethimetre, A<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>gus Mack<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>h<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>er<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>k</hi> Son to <hi>E<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>r Mackener<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ek</hi> of <hi>Obb, James Campbell</hi> of <hi>Ormſay, D<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>gald Mackleriehe</hi> of <hi>Bralycha<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>, D<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ncan Mack<g ref="char:EOLhyphen"/>nil<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>i<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>r</hi> in <hi>Eſ<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>g, Archibald Campbell</hi> in <hi>Evinn<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>cha<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>e,</hi> Son-in-Law to the ſaid Land of <hi>Otter,</hi> Mr. <hi>Colin Mackla<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>chlan<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>,</hi> Mi<g ref="char:EOLhyphen"/>n<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>i<gap reason="illegible" resp="#PDCC" extent="3 letters">
+                  <desc>•••</desc>
+               </gap> 
+               <hi>L<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>b<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ayliſheid;</hi> All or the moſt part of them, being the ſaid <hi>Marqurſs of Argyle</hi> his Friends, Followers, or Com<g ref="char:EOLhyphen"/>plicer under his command, and ſuch as he might have ſtopt or let.</p>
+            <p>That where notwithſtanding by the 129. Act of the eight Parliament of Our deareſt Grand-father, King <hi>James</hi> the ſixth of bleſſed Memory. His Majeſty and His three Eſtates then Aſſembled in Parliament, ratifyed and approved the Royal Power and Authority, over all Eſtates: As well Spirituall as Temporall, within this Realm, in the perſon of. His Majeſty. His Heires and Succeſſors: and did Statute and Ordinance, that his Highneſſe and his Succeſſors by themſelves, and their Counſels, were and ſhould be Judges Competent to all per<g ref="char:EOLhyphen"/>ſons, his Highneſs's Subjects of whatſoever degree, ſunction, eſtate, o<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> condition they ſhould be of, in all matters wherein they, o<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> any of them ſhould be apprehended, ſummoned or charged to anſwer: And that none ſhould preſume, not take upon hand, to decline the judgement of his Highneſſe, his I <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>eites and Succeſſors, or their Councell, in the premiſes un<g ref="char:EOLhyphen"/>der the pain of Treaſon. And ſicklike, by the firſt Act of the eight Parliament, of our ſaid deareſt Grand-father, King <hi>James</hi> the ſixth. His Majeſties Soveraign Authority, Princely Power. Royal Prerogative and Priviledge of his Crown, over all Eſtates, Petions, and Cauſes whatſoever. And the whole Eſtates then conveen'd in Parliament for them, and their Succeſſon, faithfully promiſed, perpetually to acknowledg, obey, maintain, defend and advance the Life, Honour, Safety, Dignity. Soveraign Authority and Prerogative Royal of Our <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>id deateſt Grand-father, his Heires and Succeſſors, and
+<pb n="3" facs="tcp:169356:3"/>Priviledge of the Crown, with their Lives, Lands and Goods; And to withſtand all Perſons, Powers and Eſtates, who ſhould preſume any waies to impugne, or prejudge the ſame. Which Act is ratifyed, by the third Act by the firſt Parlia<g ref="char:EOLhyphen"/>ment of King <hi>Charles</hi> the firſt, of bleſſed Memory our deareſt Father.</p>
+            <p>Likeas, by the third and forth Acts of King <hi>James</hi> the firſt, his firſt Parliament, and by the 37. Act of the ſecond Parlia<g ref="char:EOLhyphen"/>liament of King <hi>James</hi> the firſt, and ſeverall other Acts, His Statute, that none rebell againſt the Kings Perſon or Authority; or if they do in the contrary, or make War againſt his Liedges, or reſet any ſuch Traitots, or ſupplie them in red or counſill, or doe favours to Rebells, or any waye<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> aſſiſt them, or doe not riſe at His Majeſties command, being required; they being con<g ref="char:EOLhyphen"/>victed thereof, are puniſhable as Traitors. Likeas by the 134. Act Parl. 8. the 10. Act of the 10. Parl. of King <hi>James</hi> the 6. All depravers of His Majeſties Lawes, and medlars in His Majeſties affaires, or Miſconſtruers of His Proceedings, whereby any miſtake may be moved between His Majeſty and his loving ſubjects, are puniſhable by death. Likeas by the 1. Act of King <hi>James</hi> the fift his 3. Parliament, and by the 51. Act of the 11. Parl. of King <hi>James</hi> the 6. All burners of folks in their houſes, all burners of houſes and Cornes, and wilfull fire-faiſing; As alſo all murder or ſlaughter of His Majeſties Liedges, where the party ſlain is under truſt, credit, aſſurance and power of the flayer, the ſame is declared Trea<g ref="char:EOLhyphen"/>ſon and Laeſe-Majeſty. Likeas by the 75. Act of Queen <hi>Ma<g ref="char:EOLhyphen"/>ries</hi> Parliament 9. and divers other Acts, it is Statute, that no manner of perſon of perſons, of whatſoever Quality, E<g ref="char:EOLhyphen"/>ſtate, Condition or Degree they be, Liedges of this Realm, Attempt to raiſe any bands of men of War, on horſe, or foot, without ſpecial <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>icence in Writ, had and obtain'd of the Queens Majeſty for the time, and Her Succeſſors under the pain of death, to be executed upon the raiſers, and riſers in Arms. As alſo, by the 50. Act of the 11. Parliament of King <hi>Iames</hi> the 6. it is Statute and Ordain'd that in caſe it ſhall happen, any landed man to be convicted of the crime of common theſt, reſet of theft, or ſtealth, reift in time com<g ref="char:EOLhyphen"/>ming.
+<pb n="4" facs="tcp:169356:4"/>They ſhall incur the caime and poine of Treaſon; That is to ſay. Tinſell and forfeiture of Life, Lands, and Goods. Likeat, by the common Law and practice of this Nation, all Committers of Murder, Man-ſlaughter; Robbery, Rapine, or Reiff, is puniſhable by death; and who are Act or Part of any ſuch crimes. As alſo by the ſame Lawes, all private Impriſoners, Keepers of private Pritions, and falſe Im<g ref="char:EOLhyphen"/>p<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ſoners, and all Oppreſſion whatſoever are puniſhable in the like manner.</p>
+            <p>Nevertheleſs the Perſons above named complain'd upon, having laid aſide all Fear of God, Loyalty and Obedience to their Soveraign Lord and King, natural affection and recipro<g ref="char:EOLhyphen"/>cal duty to their Countreymen and ſellow Subjects, Have moſt traicesouſly, trecherouſly, perfidiouſly and cruelly committed the crime; of high Treaſon, and other crimes, Murders, Op<g ref="char:EOLhyphen"/>preſſions, Robbeties, Miſdoods and Malverſations underwrit<g ref="char:EOLhyphen"/>ten, contrary to out ſaid Laws and Acts of Partiament; and thereby have incurred the teſpective pains and puniſhments therein contained. In ſo fatas the ſaid Perſons above written. Deſendants, porticularly the ſaid Marqueſs of <hi>Argyle, George Campbell</hi> his Servant, and Juſtice, and Sheriff-deputy; <hi>James Campbell</hi> of <hi>Ardkinglas, Colin Campbell</hi> of <hi>Straquhir, Robers Campbell</hi> of <hi>Anchi<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>willing, John Campbell</hi> of <hi>Ardrariche, Ma<g ref="char:EOLhyphen"/>ſter Calin Macklan<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>hane, D<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>can Campbell</hi> of <hi>Ela<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>greg, John Campbell Fiare</hi> of <hi>Dunſtafaiche, Dargall Campbell, alias Mack<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#PDCC" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>chie of I<gap reason="illegible" resp="#PDCC" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>etram:</hi> Having from the beginning of the In<g ref="char:EOLhyphen"/>ſurrections and troubles in the year of God 1639, 1640, 1641. and 1642. both ſecretly and avowedly, appeared in conſtant oppoſition to Our deateſt Father, his Royal Counſels and com<g ref="char:EOLhyphen"/>mand<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>: And after His Majeſties moſt gracious Condeſcen<g ref="char:EOLhyphen"/>dencies to all the deſires of his Liedges, how unteaſonable ſo<g ref="char:EOLhyphen"/>ever; He having depatted to his Kingdom of <hi>England,</hi> a cr<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> ented Prince from a contented people. Nevertheleſs the aforeſaid perſons continuing in their treaſonable malice againſt their own Sovereign, did in the moneths of <hi>Ianuary, February, March, April, May, Iune, Iuly, Auguſt, September, October, November, December,</hi> or one or other of them, in the year of God 1641. moſt traite rouſly without their Sovereigns at tho<g ref="char:EOLhyphen"/>rity
+<pb n="5" facs="tcp:169356:4"/>or ſicence, and expreſly againſt his will, pleaſure and ſer<g ref="char:EOLhyphen"/>vice, at their own hand and by their own power, cauſed call, and convocate a prerended Committee and Convocation of His Majeſties Lieges; wherein they themſelves, or one or o<g ref="char:EOLhyphen"/>ther of them, did perſonally convene and meet; and in the ſaid treaſonable and unlawful Convocation did act and appoint treaſonable leavies of His Majeſties own Subjects, in oppoſition to His Majeſties perſon, authority and expreſs command. And thereafter did actually invade and enter within His Majeſties Kingdom of <hi>Engl.</hi> in open hoſtility, taking His Majeſties Towns, killing his Subjects, waſting and deſtroying their Eſtates and fortunes, joyning with his rebellious Subjects in <hi>Eng.</hi> and an Ar<g ref="char:EOLhyphen"/>my of Sectaries there, for deſtruction of His Majeſties Perſon, Royal Family, authority and government of theſe Nations, ſo far as in them lay. And thereafter in the moneths above writ<g ref="char:EOLhyphen"/>ten, or one or other of them, in <hi>anno</hi> 1646. the ſaid <hi>Archibald</hi> Marqueſs of <hi>Argyle,</hi> and the remnant perſons above named Defendants, or one or other of them, in an unheard of way of trechery and treaſon, delivered His Majeſties ſacred Perſon into the hands of the ſaid Rebels, who thereafter moſt treche<g ref="char:EOLhyphen"/>rouſly murdered him. For eſchewing and preventing whereof, the whole Eſtates of this Nation finding it neceſſary and in<g ref="char:EOLhyphen"/>cumbent to them, for the relief of their Sovereign Lord from his captivity, to <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>aiſe an Army for that effect. The ſaid per<g ref="char:EOLhyphen"/>ſons complained upon, or one or other of them, not onely by ſubtile and clandeſtine means, by Declamations and familiar Conſerences, and openly by Declarations and publick Spee<g ref="char:EOLhyphen"/>ches in face of Parliament, opened the ſame; but alſo the ſame being paſt into an Act in the moneth of <gap reason="blank" extent="1 word">
+                  <desc> _____ </desc>
+               </gap> 1648. years, publickly entered their <hi>diſaſſent</hi> or <hi>Proteſtation</hi> againſt the ſame, moſt treaſonably and trecherouſly againſt the authority of the King, our deareſt Father, and the Eſtates of Parliament. And yet their malice not teſting ſatisfied, they did by themſelves, their friends and adherents, in <hi>October</hi> 1648. years, or thereby, convocate or raiſe in arms great num<g ref="char:EOLhyphen"/>bers of His Majeſties Lieges, without any Warrant from King or Parliament; and did in open hoſtility march to His Maje<g ref="char:EOLhyphen"/>ſties Burghs Royal of <hi>Edenburgh</hi> and <hi>Sterling,</hi> proſecuting his
+<pb n="6" facs="tcp:169356:5"/>ſaid Army, killing His Majeſties good Subjects, waſting and deſtroying their lands and houſes. And thereafter moſt baſely and traite<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ouſly invited the late Tyrant and Uſurper <hi>Oliver Crom<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ell</hi> to enter His Majeſties Kingdom of <hi>Sc<gap reason="illegible" resp="#UOM" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>land,</hi> with an Army of <gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap>angers, Traitors and Secta<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ies; ſuſtain'd him and his treaſonable Army with all ſo<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ts of proviſion, <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>eaſting and countenancing himſelf and prime Officers in the metropoly<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>an City of Our Kingdom, and within His Majeſties <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ort and ſtrength there of the Caille of <hi>Edenburgh,</hi> where the moſt con<g ref="char:EOLhyphen"/>ſiderable ſtrength of the Kingdom was for the time: By theſe mean<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> ca<gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ing the ſecreſies of His Majeſties Kingdom and Forts thereof upon to the view of thoſe ſtrangers and tray<g ref="char:EOLhyphen"/>to<gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap> Which, by the laws of this and all Nations, is high trea<g ref="char:EOLhyphen"/>ſon: and in all probability was the Kingdoms bane and ruine, and was the act immediately preceding the cruel Regicide and murther of their ſacred Sovereign Our Royal Father. At leaſt they, or one o<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> other of them, were either aiders, abe<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>tors, aſ<g ref="char:EOLhyphen"/>ſiſtants, promo<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ers, diviſers, or act and part, and particularly the ſaid <hi>Marqarſ<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> of Argyle,</hi> of the aforeſaid treaſonable crimes and others above libelled.</p>
+            <p>Secondly, the aforeſaid perſons, and particularly the ſaid <hi>Archibald Marqueſs of A<gap reason="illegible" resp="#UOM" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>y<gap reason="illegible" resp="#UOM" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>,</hi> not having yet ſatisfied hit ma<g ref="char:EOLhyphen"/>lice, treaſonable attempts and purpoſes, not conſidering the duty either be owed to God, his Prince, Countrey, Nobility of his Family, nor his own honour or reputation, after multi<g ref="char:EOLhyphen"/>plicity of Honours and Offices graciouſly conferred upon him by Our ſacred Father, and the dignity vouchſafed to him by Our Self, in allowing him the tr<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſt and honour of ſetting Our Imperial Crown upon Our head upon the day of Our Corona<g ref="char:EOLhyphen"/>tion in <hi>Scotland,</hi> which was the firſt of <hi>Ianuary</hi> 1651. years, in preſence of Our whole Nobility and Eſtates of Our ſaid an<g ref="char:EOLhyphen"/>cient Kingdom, putting the Crown upon Our head, with bow<g ref="char:EOLhyphen"/>ed down knees and up liſted hands, in preſence of God, An<g ref="char:EOLhyphen"/>gels and men ſwore as ſollows. <hi>By the Eternal God, who liveth and reig<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>eth for ever, I ſhall ſupp<gap reason="illegible" resp="#UOM" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>s thee to my <gap reason="illegible" resp="#UOM" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>termoſt: And I ſ<gap reason="illegible" resp="#UOM" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ar to be a loyal and true ſubject, and faithful to the Crown.</hi> And thereafter alſo kneeling, and holding his hands betwixt Our hands, did ſwear theſe words, <hi>By the Eternal and Almighty
+<pb n="7" facs="tcp:169356:5"/>God, who liveth and reigneth for ever, I became Your Liege, and truth and faith ſhal bear to you and live and die with you, againſt all manner of folk whatſoever in Your ſervice.</hi> Notwithſtanding of all which, after the ſaid <hi>Archibald Marqueſs of Argile</hi> had diſſoyally and baſely deſerted Out Perſon and Army at <hi>Sterling,</hi> when We were on Our match to <hi>Engl.</hi> in the year 1651. did in the moneths above written, or one or other of them, <hi>anao</hi> 1652. at the de<g ref="char:EOLhyphen"/>ſire of General <hi>Dean</hi> and Colonel <hi>Overton,</hi> Our known and publick enemies, they having come to <hi>In<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>rrarey</hi> with a Regi<g ref="char:EOLhyphen"/>ment of Souldiers, and there the ſaid <hi>Marqueſs</hi> had confe<g ref="char:EOLhyphen"/>rence and conſultation with them, and did ſwear, at leaſt ſub<g ref="char:EOLhyphen"/>ſcribed and acknowledged the government of Our Domini<g ref="char:EOLhyphen"/>ons, as it was then eſtabliſhed by the ſaid wicked Tyrant and Uſurper <hi>Oliver Cromwel</hi> and his ſaid adherents, in a Common<g ref="char:EOLhyphen"/>wealth, without King or Houſe of Lords; and obliged himſelf to live under it, and be obedient thereto. And conform there<g ref="char:EOLhyphen"/>to moſt perjur'dly and infamouſly the ſaid <hi>Archibald Marqueſs of Argile,</hi> after the ſaid Army of Rebels and Sectaries under the command of the ſaid General Major <hi>Dean</hi> and <hi>Overton,</hi> were drawn to ſuch a ſtreit in their return from <hi>Innerarey,</hi> they being in the power of certain of the ſaid <hi>Marqueſs</hi> his friends, and divers others of His Majeſties loyal Subjects then in arms, ſtanding in oppoſition againſt them; and they having taken in all Paſſes, the ſaid <hi>Marqueſs</hi> being then Our Juſtici<g ref="char:EOLhyphen"/>ary in theſe bounds, and Sheriff of <hi>Argyle,</hi> moſt traiterouſly and infamouſly againſt his ſaid Oath and duty, did interpoſe himſelf in favours of the enemy, commanding and counſel<g ref="char:EOLhyphen"/>ling Our ſaid faithful Subjects, who ſtood in oppoſition to the ſaid enemy, did ſuffer them ſafely to paſs without oppoſition: and by the ſaid <hi>Marqueſs</hi> his inſinuation there was a ſafe paſs given to the ſaid enemy from the foreſaid danger. Like as further to evince the ſaid <hi>Marqueſs</hi> his treaſonable compliance and affection to the ſaid wicked Tyrant and Uſurper <hi>Oliver Cromwell</hi> in all his wicked and treaſonable courſes and at<g ref="char:EOLhyphen"/>tempts, he in the moneth of <gap reason="blank" extent="1 word">
+                  <desc> _____ </desc>
+               </gap> a thouſand ſix hundred and fifty <gap reason="blank" extent="1 word">
+                  <desc> _____ </desc>
+               </gap> years, upon a pretended call from the ſaid Tyrant and Uſurper, to convene a pretended Parlia<g ref="char:EOLhyphen"/>ment, without any coaction or neceſſity, did engyre himſelf in
+<pb n="8" facs="tcp:169356:6"/>favour of ſome Shires, and dealt with them to elect him for their Commiſſioner; at leaſt being elected he voluntarily ac<g ref="char:EOLhyphen"/>cepted thereof; and upon their ſaid pretended Commiſſion he went to the ſaid pretended Parliament at <hi>Weſtminſter,</hi> and there moſt <hi>perfidiouſly and perjuredly, t<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>cherouſly, treaſonably and <gap reason="illegible" resp="#PDCC" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>ribily,</hi> contrary to his own dignity and degree, ſate and acted by Voting and other wayes, in the ſaid pretended Parliament, as a Member of the Houſe of Commons, for eſta<g ref="char:EOLhyphen"/>bliſhing the ſaid Tyrant his uſurped authority, and aboliſhing of Us and Our Royal Race from Our juſt right and title to Our Crowns of <hi>Scotland, England</hi> and <hi>Ireland.</hi> And alſo the ſaid <hi>Marqueſt</hi> in further proſecution of his treaſonable rebellious coune and deſigns, in the moneths above written, or one or other of them, in the year 1653. or 1654. or either of them, ſold and delivered ſeveral muſquets and other ammunition to the ſaid Rebels, to the number of ſeventeen Cannon, and ſe<g ref="char:EOLhyphen"/>ven hundred muſquets, or there abouts.</p>
+            <p>Thirdly, in the year 1654. ſeverall of Our loyal ſubjects having for Vindication of Our Authority, and revenge of Our Royal Father of bleſſed Memory. His Murder, Taken arms under the command of Our. Truſly and right well-beloved Couſins and Counſellouts, <hi>William</hi> Earl of <hi>Glencairn<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>,</hi> and <hi>John</hi> Earl of <hi>Middlettes,</hi> then Our Commiſſioners for that effect. Againſt whom, and Our forcer under their command, the ſaid Enemies being about to tranſport eight hundred men to the North, under the command of Col. <hi>Gebber,</hi> and being driven to the Iſle of <hi>M<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>le,</hi> and ſhi: broken in their way, and ſo ready to periſh: The ſaid <hi>Archibald</hi> Marqueſſe of <hi>Argyle</hi> and the remanent perſons above complain'd upon, or one or other of them, in the moneths above-written, or one or other of them, in the year 1654. or 1655. did gather together all their own Boars and others, and therein did ſafely tranſport them to <hi>Dunburten,</hi> from the ſaid Iſle of <hi>Mule,</hi> and to other ſafe places. At leaſt the ſaid <hi>Archibald</hi> Marqueſ, of <hi>Argyle,</hi> and remanent perſons above complain'd upon, or one of other of them were authors, aiddes, abettors, aſſiſters, adviſers, or ar<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> and part, of the foreſaid treaſo<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>r, and other crimes and miſ<g ref="char:EOLhyphen"/>deeds above libelled.</p>
+            <pb n="9" facs="tcp:169356:6"/>
+            <p>Fourthly, the ſaid <hi>Marques</hi> and remanent perſons above complain'd upon, or one or other of them in the moneths above written, or one or other of them in the yeare 1654. 1655. moſt perfidiouſly, treacherouſly, and traiterouſly, went into the ſaid Engliſh <hi>Rebels,</hi> without any coaction or neceſſity to the High<g ref="char:EOLhyphen"/>lands in <hi>Lochquhaber,</hi> and ſeverall other places; and joyned with the ſaid Rebells, for ſuppreſſing of the ſaid Parles of <hi>Glen<g ref="char:EOLhyphen"/>cairne</hi> and <hi>Middleton,</hi> then our Commiſſioners, and our For<g ref="char:EOLhyphen"/>ces under their command; and countenanced, counſelled, and conveyed the ſaid <hi>Rebells,</hi> through divers places in the Highlands, in their expedition againſt our Forces. At leaſt the ſaid perſons defendents, and particularly the ſaid <hi>Archi<g ref="char:EOLhyphen"/>bald</hi> Marqueſſe of <hi>Argyle,</hi> were Authors, Actors, Aiders, A<g ref="char:EOLhyphen"/>bettors, Aſſiſters, and Countenancers of the ſaid treaſonable crimes, and others above ſpecifyed.</p>
+            <p>Fifthly, when the ſaid Arch-Traitor and Regicide dyed, <hi>Richard Cromwell</hi> his Son, was by order of his Fathets trai<g ref="char:EOLhyphen"/>terous Council, ſitting at <hi>London</hi> Proclaimed Protector of our three Kingdoms, at the Market Croſſe of <hi>Edinburgh;</hi> which was done accordingly by a pretended Councill ſitting at <hi>Edinburgh</hi> for the time. At the doing whereof, the ſaid <hi>Ar<g ref="char:EOLhyphen"/>chibald</hi> Marqueſſe of <hi>Argyle</hi> moſt <hi>traiterouſly, treacherouſly,</hi> and <hi>perſidiouſly</hi> in the moneths of <gap reason="blank" extent="1 word">
+                  <desc> _____ </desc>
+               </gap> a thou<g ref="char:EOLhyphen"/>ſaid ſix hundred fifty <gap reason="blank" extent="1 word">
+                  <desc> _____ </desc>
+               </gap> year, went up to the ſaid Croſſe of <hi>Edinburgh,</hi> at the time of the ſaid Proclamation, and did countenance and aſſiſt the ſame; by which our authority was altogether aboliſhed. And moreover, to further evidence the ſaid Marqueſſe of <hi>Argyle,</hi> his willingneſſe to ſerve the ſaid Uſurper in the accompliſhing of all his treaſonable deſigns, and to extirpate us from our Royal authority and Govern<g ref="char:EOLhyphen"/>ment, he endeavour'd by all means poſſible, when the fore<g ref="char:EOLhyphen"/>ſaid Tyrant and Uſurper had commanded Commiſſioners from ſhires in <hi>Scotland,</hi> to appear at <hi>London</hi> in his pretended Par<g ref="char:EOLhyphen"/>liament, for Eſtabliſhing his Uſurped authority, and aboliſh<g ref="char:EOLhyphen"/>ing of Us and Our Royal race from our juſt Right and Title to our Crownes of <hi>Scotland, England,</hi> and <hi>Ireland;</hi> and for ſuppreſſing of the Priviledges, Lawes and Liberties of this our ancient Kingdom of <hi>Scotland.</hi> The ſaid Marqueſſe did in obe<g ref="char:EOLhyphen"/>dience
+<pb n="10" facs="tcp:169356:7"/>of the ſaid Traiterous command, obtain himſelf to be Elected Commiſſioner for the Sheriffdom of <hi>Ba<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>f:</hi> and there<g ref="char:EOLhyphen"/>after went up to <hi>England,</hi> and there ſat as a Member of that Traiterous Correction and meeting at <hi>London,</hi> wherein De<g ref="char:EOLhyphen"/>claration was made againſt Us and our Succeſſors, debaring us for ever, from our Juſt and lawful Right and Title, to the Crownes of theſe our three Kingdoms. Likeas thereafter the ſaid <hi>Marqueſs</hi> did embrace the Office of Sheriff-ſhip of <hi>Argi<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e</hi> from the enemy, and exerciſed the ſame under them for his own ends; and did ſeveral times ſwear, at leaſt ſubſcribe, in their favours againſt U<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>, Our Succeſſors, Crown, Government and Sovereignty; and to be obedient and live peaceably under their Government of Our Kingdoms in form of a Common<g ref="char:EOLhyphen"/>wealth, at it was then eſtabliſhed by the ſaid Traitor and U<g ref="char:EOLhyphen"/>ſurper. Of the which treaſonable deeds and acts, and others aforeſaid, the ſaid Defenders, and particularly the ſaid <hi>Archi<g ref="char:EOLhyphen"/>bad Marqueſi of Argyle,</hi> or one or other of them, were an<g ref="char:EOLhyphen"/>thory, aiders, abettors, aſſiſters, contrivers, promoters and coun<g ref="char:EOLhyphen"/>tenancers.</p>
+            <p>Sixthly, to further manifeſt the ſaid <hi>Marqueſs of Argyle</hi> his treaſonable deeds, acts and intentions againſt Us, contrary to his oath and duty, the ſame evidently appears by his treaſona<g ref="char:EOLhyphen"/>ble ſpeeches following; in ſo far as he being preſent in a Pro<g ref="char:EOLhyphen"/>vincial aſſembly at <hi>Innerarcy</hi> in the moneth of <gap reason="blank" extent="1 word">
+                  <desc> _____ </desc>
+               </gap> 
+               <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> one or other of the moneths above written, in the year 1652. or 1653. or one or other of them, ſome Miniſters being then preſent, praying for His Majeſties happineſs and welfare, the ſaid <hi>Marqueſs</hi> did openly ſay and declare before them, <hi>That they were has fools to pray for that wicked, falſe, malignant King, whom God had caſten off, and would never reſtore again,</hi> and cer<g ref="char:EOLhyphen"/>tain <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ber words to this purpoſe and meaning; the ſaid <hi>Mar<g ref="char:EOLhyphen"/>queſ<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </hi> having uttered the like treaſonable ſpeeches at <hi>London</hi> and elſewhere. And alſo in one or other of the ſaid two years above written, in the moneth of <gap reason="blank" extent="1 word">
+                  <desc> _____ </desc>
+               </gap> or one or o<g ref="char:EOLhyphen"/>ther of the ſaid moneths, the ſaid <hi>Marqueſs</hi> being within a Chamber of his manſion houſe at <hi>Lochhead</hi> in <hi>Ke<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>tyre,</hi> ſtamp<g ref="char:EOLhyphen"/>ing with his foot did vaunt himſelf, ſaying, That he was the onely man that plotted the riſing of the Forces in the Weſt,
+<pb n="11" facs="tcp:169356:7"/>terming the ſame the <hi>Whig-rode,</hi> which proved the main cauſe of our ruine. Moreover his correſpondence, joyning, acting and conſulting with the Enemy for Our ruine is more mani<g ref="char:EOLhyphen"/>feſt, in ſo far as he did receive precepts from the ſaid Tyrant and Uſurper <hi>Oliver Cromwell,</hi> directed to his Council at <hi>Eden<g ref="char:EOLhyphen"/>burgh,</hi> for payment of the ſumme of Twelve thouſand pounds ſterling, for good and thankful ſervice done by the ſaid <hi>Mar<g ref="char:EOLhyphen"/>queſs.</hi> Likeas he did keep correſpondence with the Uſurper <hi>Richard Cromwell,</hi> and <hi>Charles Fleetwood</hi> in the year 1658. and 1659. by miſſive Letters and other wayes. As alſo with Sir <hi>Archibald Iohnſton</hi> of <hi>Wariſton,</hi> his fellow traitor, in the ſaid year 1659. when he ſate in that traiterous meeting or Coun<g ref="char:EOLhyphen"/>cil of the Rebels at <hi>London,</hi> called the Committee of Safety, wherein the ſaid <hi>Wariſton</hi> ſate as Preſident: and did of new emit Declarations for aboliſhing of Us and Our Succeſſors, from Our juſt right and title to the Crowns of theſe Our ſaid Kingdoms. Of all which treaſonable acts and deeds aforeſaid. intended or committed in one or other of the moneths of the reſpective years above written, contrary to Our ſaid Laws and Acts of Parliament, and ſeveral other Laws, the ſaid Defen<g ref="char:EOLhyphen"/>dants, and particularly the ſaid <hi>Archibald Marqueſe of Argyle,</hi> at leaſt they, or one or other of them, were authors, aiders, a<g ref="char:EOLhyphen"/>bettors, aſſiſters, promoters, countenancers, contrivers, or act and part.</p>
+            <p>Seventhly, Our ſaid deceas'd Soveraign Lord and deareſt Father, having granted Commiſſion upon the <gap reason="blank" extent="1 word">
+                  <desc> _____ </desc>
+               </gap> day of <hi>March</hi> 1643. years under His ſaid Majeſties hand, autho<g ref="char:EOLhyphen"/>rizing and giving expreſs order to the ſaid Sir <hi>James Lamond</hi> to proſecute a War, and levie Forces in His Majeſties name, a<g ref="char:EOLhyphen"/>gainſt thoſe in Rebellion, and particularly againſt the ſaid <hi>Marqueſs</hi> of <hi>Argyle,</hi> and to invade his Bounds and Lands, as he was the principall Promoter of theſe odious and rebelli<g ref="char:EOLhyphen"/>ons practiſes againſt His Majeſties authority, as the ſaid Com<g ref="char:EOLhyphen"/>miſſion by way of a miſſive Letter directed to the ſaid Sir <hi>James</hi> at more length bears. In obedience whereunto the ſaid Sir <hi>James,</hi> according to his alleagiance and bound duty, levy<g ref="char:EOLhyphen"/>ed all his friends and followers, and accordingly acted as be<g ref="char:EOLhyphen"/>came a good Subject in His Majeſties ſervice. For promoting
+<pb n="12" facs="tcp:169356:8"/>whereof till the year 1646. That after His Majeſties comeing to <hi>
+                  <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>,</hi> and caſting himſelf upon the truſt of his Army lying there, the ſaid Sir <hi>James</hi> did then lay down arms, and with his friends reteared in a peaceable manner, to his own houſes of <hi>Temart</hi> and <hi>Eſoog;</hi> there being no other houſes for the ſhelter of his friends, the Countrey having been former<g ref="char:EOLhyphen"/>ly waſted and burnt. After which in the moneth of <gap reason="blank" extent="1 word">
+                  <desc> _____ </desc>
+               </gap> or thereabout, in the ſame year, the ſaid defendents, or one or other of them, being commanded by the ſaid <hi>James Camphell</hi> of <hi>Arakingla<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>, Dr<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>gall Campbell</hi> of <hi>I<gap reason="illegible" resp="#PDCC" extent="4 letters">
+                     <desc>••••</desc>
+                  </gap>raw,</hi> and others their Officers, and others under the ſaid <hi>Marquiſ<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </hi> his command, old in a hoſtile manner lay ſiege to the ſaid two houſes, uſing all manner of violence. And the ſaid Sir <hi>Tames,</hi> after all le<g ref="char:EOLhyphen"/>gal meant uſed for his own defence, did bring them to a treaty, where in by articles of capitulation, they did grant to him, and has ſaid friends and followers indempnity in their perſons and <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>, with power to paſſe freely where they, leaſed; as the ſaid articles, ſubſcribed by the hands of the ſaid <hi>James Camp<g ref="char:EOLhyphen"/>bell</hi> of <hi>Ar<gap reason="illegible" resp="#PDCC" extent="5 letters">
+                     <desc>•••••</desc>
+                  </gap>las, Colin Campbell</hi> of <hi>Str<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>quhir, John Camp<g ref="char:EOLhyphen"/>bell</hi> Fire of <hi>Danſta<gap reason="illegible" resp="#PDCC" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>ich, D<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>can Campbell</hi> of <hi>Elangreg, Deu<g ref="char:EOLhyphen"/>gall Campbell</hi> of <hi>
+                  <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>, Duncan Campbell</hi> Uncle to the Laird of <hi>Lorbinell,</hi> and <hi>Iohn M<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ckl<gap reason="illegible" resp="#PDCC" extent="4 letters">
+                     <desc>••••</desc>
+                  </gap>
+               </hi> F<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>are of <hi>Craigintareiff</hi> of the date the third day of <hi>I<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>e</hi> at more length bear<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> neverthe<g ref="char:EOLhyphen"/>leſſe the aforeſaid perſons complain'd upon, or one or other of them, did moſt perſidiouſly, treacherouſly, and treaſonably, ſhortly after the ſaid capitulation, plunder the ſaid houſes of their whole furniture and goods therein; and did tob and take away from the perſons within the ſame, their whole money and cloaths, did drive their whole Cattell of all ſorts, which together with the wallations formerly done by them, to the ſaid Sir <hi>Iames,</hi> his Friends, Vaſſals and Tenants, did exceed the ſumme of <hi>fifty thouſand pound Seerling.</hi> And in a moſt cruell and bath<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>rous way, win<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> ſome of his poor friends were reſcuing their own goods, they bacharouſly murdered and maſſacred a member of innocent women, as namely. <hi>Marie Gila<gap reason="illegible" resp="#PDCC" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>, Marione Mackleiſh</hi> a young maide, <hi>Cale<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ch Breid<g ref="char:EOLhyphen"/>machfoyne, Margne<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s Crawforde,</hi> and certain others; and in<g ref="char:EOLhyphen"/>humanly left their bodies, as a prey to ravenous beaſts and
+<pb n="13" facs="tcp:169356:8"/>foules. At the leaſt, the ſaid perſons or one or other of them, and particularly the ſaid <hi>Marqueſs</hi> of <hi>Argyle,</hi> were authors, actors, aiders, abetters, aſſiſters, contrivers, and art and part of the ſaid cruell bloudy murders, robberies, oppreſſions, and other deeds and malverſations above lybelled.</p>
+            <p>Eightly, the ſaid perſons defendants, ſhortly after the ſaid capitulation, and contrary to the ſame, or one or other of them, and ſpecially the ſaid <hi>Iames Campbell</hi> of <hi>Ardkinglas, Dougall Campbell</hi> of <hi>Iauerra<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>, Colin Campbell</hi> of <hi>Straquhir, Duncan Campbell</hi> of <hi>Ellangreg, Dancan Campbell,</hi> Uncle to the Laird of <hi>Lochnell, Iohn Campbell</hi> Flare of <hi>Danſtafneiche,</hi> did moſt treacherouſly, perfidiouſly, and traiterouſly felter and bind the hands of near two hundred perſons, of the ſaid Sir <hi>Iames</hi> his friends and followers, who were comprehended within the ſaid capitulation; detaining them priſoners with a guard, their hands being bound behind their backs like theeves, within the ſaid Sir <hi>Iames's</hi> houſe and yards of <hi>Towart,</hi> for the ſpace of ſe<g ref="char:EOLhyphen"/>verall dayes in great torment and miſery, they being <hi>His Ma<g ref="char:EOLhyphen"/>jeſties</hi> free Lieges and people. Likeas moſt traiterouſly and perſidiouſly, contrary to the ſaid capitulation, they did carry the ſaid Sir <hi>Iames Lamond</hi> priſoner to the ſaid houſe and caſtle of <hi>Eſcog,</hi> and by that means, and for fear of the ſaid Sir <hi>Iames</hi> his life, the keepers of the ſaid Caſtle, being the ſaid Sir <hi>Iames's</hi> Friends and Vaſſals, they did ſurrender the ſaid houſe, upon capitulation of life, fortune and goods: which capitulation was moſt traiterouſly and perſidiouſly broken. And in purſu<g ref="char:EOLhyphen"/>ing of their further villanie, after plundering and robbing of all that was within and about the ſaid houſe, they moſt barba<g ref="char:EOLhyphen"/>rouſly, cruelly and inhumanly, murdered ſeverall young and old, yea ſucking children, ſome of them not one moneth old. And further the ſaid defendents or one or other of them, and particularly the foreſaid ſubſcryvers of the ſaid capitulations in the moneth of <gap reason="blank" extent="1 word">
+                  <desc> _____ </desc>
+               </gap> 1646. years, did moſt traite<g ref="char:EOLhyphen"/>rouſly and perfidiouſly carry the whole people that was within the ſaid houſe of <hi>Eſcog</hi> priſoners with a guard to the ſaid Sir <hi>Iames</hi> his houſe of <hi>Towars,</hi> and ſhortly after their removall from the ſaid houſe of <hi>Eſcog,</hi> the ſaid defendents, or one or o<g ref="char:EOLhyphen"/>ther of them, cauſed burn the ſame, deſtroying the whole Or<g ref="char:EOLhyphen"/>chards
+<pb n="14" facs="tcp:169356:9"/>and Plantings about the ſaid houſe of <hi>Eſ<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ng.</hi> And not being content with their former cruelties, they ſhortly there<g ref="char:EOLhyphen"/>after carryed all the ſaid perſon, who were priſoners in both the ſaid houſes of <hi>Eſcog</hi> and <hi>T<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ars,</hi> bound priſoners (being <hi>His Ma<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ell<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>
+               </hi> 
+               <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Lieges) to ſeverall boa<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s, ſending the ſaid Sir <hi>Iames Le<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ind,</hi> his two brethren <hi>Robert Lamond</hi> of <hi>Eſcog, Patrick Lamond</hi> his onely Son, <hi>Dancan L<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>mand</hi> his Brother, and <hi>Iohn Lamond</hi> of <hi>A<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>chingylie,</hi> priſoners to the ſaid <hi>George Campbell</hi> Sheriff. Deputy to the ſaid <hi>Marqueſs</hi> his houſe of <hi>
+                  <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>,</hi> at which time the ſaid perſons or one or other of them, moſt Villanouſly, contrary to the ſaid capitulation, lawes and acts of Parliament aforeſaid, burnt the ſaid Sir <hi>Iames Lamonds</hi> manſion houſe of <hi>I<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>a<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e:</hi> Of the which cruell crimes of treaſon, murders, fire raiſings, burnings, oppreſſions, robberies and other crimes above mentioned, committed contrary to our ſaid lawes and acts of Parliament, and the capitulation above<g ref="char:EOLhyphen"/>written, the ſaid defendents, and particularly the ſaid <hi>Mar<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>neſs</hi> of <hi>Argyle,</hi> at leaſt one or other of them were aiders, abet<g ref="char:EOLhyphen"/>ters, aſſiſters, commenancers, contrivers, promoters and coun<g ref="char:EOLhyphen"/>tellers of the ſame.</p>
+            <p>Ninethly, the ſaid Perſons Defendants, or one or other of them, contrary to the aforeſaid Capitulations, Our Laws and Acts of Parliament, upon the <gap reason="blank" extent="1 word">
+                  <desc> _____ </desc>
+               </gap> day of <hi>Inac</hi> 1646. moſt traiterouſly and perfidiouſly did carry the whole people, who were in the ſaid houſes of <hi>Eſcog</hi> and <hi>Towars,</hi> in the ſaid Boats, to the Village of <hi>Den<gap reason="illegible" resp="#PDCC" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>e,</hi> and there moſt <hi>cruelly, traiterouſly and perſidiouſly</hi> cauſed hang <hi>upon one tree</hi> near the number of <hi>thirty ſix perſons,</hi> moſt of them being <hi>ſpecial Gentlemen</hi> of the name of <hi>Lamond,</hi> and Vaſſals to the ſaid Sir <hi>Iames,</hi> viz. <hi>Neill M<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>c<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>parrick</hi> altas <hi>Lamond, Archibald Lamond</hi> ſon to <hi>Baron Mach pa<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>rick</hi> of <hi>
+                  <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>erſto<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ne, Robert Lamond</hi> his brother, <hi>Duncan Lamond</hi> brother to the ſaid <hi>Robert,</hi> and <hi>Hugh Lamond</hi> their other brother. <hi>Dancan Gerlamend</hi> in <hi>Kil<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>sarneck, Gocie</hi> and <hi>Iohn L<gap reason="illegible" resp="#PDCC" extent="4 letters">
+                     <desc>••••</desc>
+                  </gap>ds</hi> his ſom<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>, <hi>Ew<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>n Lamond</hi> in <hi>Midtowars, Gilbert Lamond, D<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>can Lamond, Iohn Mackqutin</hi> alias <hi>Lamond, Ar<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>hibald Mack<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>in</hi> alias <hi>Lo<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>nd</hi> his brother. <hi>Donald Mack<g ref="char:EOLhyphen"/>qu<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>in</hi> alias <hi>Lamond, Duncan</hi> and <hi>Iohn Lamonds</hi> ſons to <hi>Walter <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>am<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>d</hi> brother Germane to the Laird of <hi>Eſcog, Hugh La<g ref="char:EOLhyphen"/>mond</hi>
+               <pb n="15" facs="tcp:169356:9"/>in <hi>Corrs</hi> of the <hi>Carris, Robert Lamond</hi> in the <hi>Carris, Du<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <g ref="char:EOLhyphen"/>can Lamond</hi> there, <hi>Augus Lamond</hi> there, <hi>Donald Lamond</hi> there, <hi>Walter Lamond</hi> there, <hi>Duncan Lamond</hi> called <hi>Mack<g ref="char:EOLhyphen"/>walter</hi> there, <hi>Alexander Lamond</hi> in <hi>Ardyne</hi> of <hi>Nethercowall, William Lamond, Iohn Mackqutin</hi> younger alias <hi>Lamond, Patrick Brigle</hi> ſon to the deceaſed Mr. <hi>Iohn Beigle</hi> Miniſter at <hi>Rulieſay, Dovgall Haerper</hi> alias <hi>Mackalaſter</hi> ſervant to the ſaid Sir <hi>Iames Lamond, Iohn <gap reason="illegible" resp="#PDCC" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>ond</hi> ſon to <hi>Gilbert Lamond</hi> of <hi>Knockour, Gilbert Macklay</hi> in <hi>Glendarewall, Iames Lamond</hi> in <hi>Ardyne, Donald Lamond, Iames Mackquein</hi> alias <hi>Lamond</hi> in <hi>Netherconall, Iames Lamond</hi> his ſon, and <hi>Iohn Mackpatrick</hi> alias <hi>Lamond</hi> in <hi>Ardyne.</hi> And alſo the ſaid Perſons Defen<g ref="char:EOLhyphen"/>dants, or one or other of them upon the foreſaid <gap reason="blank" extent="1 word">
+                  <desc> _____ </desc>
+               </gap> day of <hi>Iune</hi> 1646. moſt cruelly, barbarouſly, inhumanely and un<g ref="char:EOLhyphen"/>chriſtianly murdered with durks, and cut down with ſwords and Piſtols the perſons following, viz. <hi>Iohn Lamond</hi> in <hi>Au<g ref="char:EOLhyphen"/>chinſhallech,</hi> who being about the age of fourſcore years, having a Flux upon him, and being alſo pin'd away with hunger and thirſt, they moſt cruelly and barbarouſly ſtobb'd him with durks and skanes at the Ladder-foot: and did alſo moſt barbarouſly murder ſtob and cut down the perſons following, viz. <hi>Thomas Brown, Neill Mankneill, Meldonich Mackman, Iohn Mack<g ref="char:EOLhyphen"/>man</hi> his Brother, <hi>Archibald Hamilton, Meldonick Mackilmi<g ref="char:EOLhyphen"/>chael, Robert Michael, Iohn Mackinlay, Iohn Hendry, Alexan<g ref="char:EOLhyphen"/>der Hundry, Patrick Hendry, Iohn Lamond, Angus Mackil<g ref="char:EOLhyphen"/>m<gap reason="illegible" resp="#PDCC" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>, Iohn Mackyunes, Iohn Macekdongall, Iohn Henry, Wil<g ref="char:EOLhyphen"/>liam Mackwilliam</hi> alias <hi>Wilſon, Hew Mackcrow, Iohn Mack<g ref="char:EOLhyphen"/>cr<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>w</hi> his Brother, <hi>Iohn Mackperſon, Donald Mackperſon, Duncan Mackperſon, Donald Mackilbreid Lamond, Duncan Lamond, Duncan Mackalaſter, Thomas Mem<g ref="char:EOLhyphen"/>bryd, Iohn Michaelſon, Iohn Moodie,</hi> and <hi>Iohn Iamiſon</hi> then Provoſt of <hi>R<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>beſay,</hi> who being ſhot thrice through the body, finding ſome life in him, did thruſt ſeverall durks and skanes in him, and at laſt did cut his throat with a long durk; The ſaid <hi>Iohn Iamiſon,</hi> not only repreſenting <hi>His Majeſties</hi> autho<g ref="char:EOLhyphen"/>rity, as a prime magiſtrate of his burgh Royal, was ſo cruelly murchered in contempt thereof, and of the Statutes made in that behalf. And to manifeſt their further cruelty, they did
+<pb n="16" facs="tcp:169356:10"/>caſt ſome of the aforeſaid perſons into holes made for them, who were ſpurning and wreſtling, whilſt they were ſuffocated, with earth; having denyed to them any time to recommend themſelves to God; albeit earneſtly deſired and begg'd by the ſaid murthered perſons. Inſomuch that the Lord from Hea<g ref="char:EOLhyphen"/>ven did declare his wrath and diſpleaſure againſt the foreſaid inhumane cruelty, by ſtricting the <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ree whereon they were hanged, in the ſaid moneth o<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <hi>June,</hi> being a lively freſh growing aſ<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>tree, at the Kirk-yard of <hi>Demer<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>c,</hi> amongſt many other freſh trees with leaves, the Lord ſtruck the ſaid tree im<g ref="char:EOLhyphen"/>mediately thereafter; ſo that the whole leaves fell from it, and the tree withered never bearing leaf there after, temain<g ref="char:EOLhyphen"/>ing ſo for the ſpace of two years: Which being cut down, there ſpring out of the very heart of the roote thereof a ſpring like unto bloud popling up, running in ſeverall ſtreames, all over the roote, and that for ſeverall years thereafter: Till the ſaid murthere<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> or their ſavourers, perceiving that it was remarked by perſons of all ranks (reforming there to ſee the miracle) they did cauſe boock out the roote, covering the whole with earth, which was full of the ſaid matter like bloud. Of the which cruell murthers, the ſaid perſons, and ſpecially the ſaid <hi>Marqueſs</hi> of <hi>Argyle,</hi> or one or other of them, were authors, actors, aiders, abetters, aſſiſters, contrivers, countenancers and <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>, many of the ſaid perſons defendents, being Offi<g ref="char:EOLhyphen"/>cers under the command of the ſaid <hi>Marqueſs</hi> of <hi>Argyle.</hi>
+            </p>
+            <p>Tenthly, Upon the Month of <gap reason="blank" extent="1 word">
+                  <desc> _____ </desc>
+               </gap> 1646. the ſaid Sir <hi>James Lamond,</hi> his ſaid brethren and friends, being detained priſoners at the ſaid <hi>Marqueſs</hi> his houſe of <hi>Iunerary,</hi> the ſaid <hi>George Campbel</hi> Sheriff, and Juſtice deputy to the ſaid <hi>Marqueſs, James Campbel of Ardkenglas</hi> Collunder thecommand of the ſaid <hi>Marqueſt, Dougall Campbell alias Mackconnachie of En<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>rran</hi> Maſo<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> under the command of the ſaid <hi>Marqueſs,</hi> and certain other perſons being met in a kind of Conventicle, who did enquire of the ſaid Sir <hi>Iames,</hi> whether he would ſubmit his life and ſ<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> tune to them, or not? who anſwer'd, That he would not pleading upon His Majeſties Commiſſion, the Capitulation given to him, and that he being the Kings Baron could not be judged by them, none of them being ſuch. Whereunto the
+<pb n="17" facs="tcp:169356:10"/>ſaid <hi>George Campbell</hi> replied, that the ſaid Sir <hi>Iames</hi> was a falſe Knave, and that he would judge him whether he would or not, and hang him as Juſtice-deputy of the ſaid <hi>Marqueſs of Ar<g ref="char:EOLhyphen"/>gyle;</hi> at which time the ſaid <hi>George Campbell</hi> did rob and ſeize upon the ſumme of 1000 <hi>l.</hi> belonging to <hi>Archibald Lamond</hi> Brother to the ſaid Sir <hi>James,</hi> and having within a little time hereafter, ſearched the ſaid Sir <hi>James</hi> for the ſaid Capitulation, finding that he had it not, and they conſidering the prejudice that might follow to them thereby, they cauſed the ſaid Sir <hi>James</hi> to ſubſcribe a paper penned by the ſaid <hi>George,</hi> decla<g ref="char:EOLhyphen"/>ring therein that his quarrell was unjuſt, and that he repented thereof, as alſo that he did paſs from the Capitulation; which paper with certain other Articles therein, was ſubſcribed by the ſaid Sir <hi>James,</hi> he being compelled thereto for fear of death, having gotten notice at that ſame very time, that his ſaid friends and follows were cruelly Murthered by them at <hi>Denron,</hi> as is above mentioned, after ſubſcribing of the which Paper, two days after the ſaid Sir <hi>James,</hi> his two brethren, and four friends aforeſaid were committed priſoners, in ſeveral houſes, appertaining to the ſaid <hi>Marqueſs</hi> of <hi>Argyle,</hi> the ſaid Sir <hi>Iames</hi> remaining priſoner in the houſe of <hi>Dunſtuffnagh,</hi> for the ſpace of four years, thereafter being carried to the Caſtle of <hi>Ineheoneill,</hi> where he remained priſoner for the ſpace of two years or thereabout, untill he was carried from thence to <hi>Ster<g ref="char:EOLhyphen"/>ling,</hi> by vertue of an Order from Us and Our Eſtates of Parlia<g ref="char:EOLhyphen"/>ment, they having not time to take tryall of the matter at that time, by reaſon of our Marching into <hi>England,</hi> ſending the ſaid Sir <hi>Iames</hi> up to the Caſtle of <hi>Sterling,</hi> for fear of the ſaid <hi>Marqueſs</hi> his cruelty; in regard he often threatned, that if ever the ſaid Sir <hi>Iames</hi> came in his power, the World ſhould not ſave his life, and that he repented nothing more, then that he took not that bloody knave his life, whilſt he had him in his power; ſaying likewiſe, that all was but one fault: the which cruell crimes of oppreſſion and others above ſpecified, the ſaid Deſendants, particularly the <hi>Marqueſs</hi> of <hi>Argyle,</hi> one or other of them, were Actors, Aiders, Abettors, Contrivers, Counte<g ref="char:EOLhyphen"/>nancers or Promoters.</p>
+            <p>Eleventhly, The ſaid perſons Defendants, their cruelty
+<pb n="18" facs="tcp:169356:11"/>againſt the ſaid Sir <hi>Iames</hi> is manifeſt, in ſo far as the ſaid Month of <gap reason="blank" extent="1 word">
+                  <desc> _____ </desc>
+               </gap> 1651. <hi>Donald Campbell</hi> ſent <hi>Iohn Campbell</hi> of <hi>Ard<g ref="char:EOLhyphen"/>tarich</hi> of their ſpeciall cauſing, bounding out and or under their command o<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> direction, came accompanied with 30. men, all armed with Guns, Swords, Piſtols, and other Weapons, inva<g ref="char:EOLhyphen"/>ſive to the Coaſt ſide of the Sheriffdomes of <hi>Ayre</hi> and <hi>Ran<g ref="char:EOLhyphen"/>frew,</hi> where they heard that the ſaid Sir <hi>Iames</hi> had his reſi<g ref="char:EOLhyphen"/>dence, and did ſearch the houſe of <hi>Southern</hi> belonging to my Lord <hi>Sempell,</hi> and the houſe of <hi>Corsby</hi> belonging to the Layrd o<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <hi>Auchnames,</hi> where the ſaid perſons did make ſearch for the ſaid Sir <hi>Iames,</hi> two of them coming early in the morning to the ſaid houſe of <hi>Auchnames,</hi> the ſaid <hi>Donald</hi> running up ſtaries, with a drawn Durk and benden Piſtoll, in either hand, making ſearch through the whole houſe and beds, to have Murthered the ſaid Sir <hi>Iames,</hi> who by providence was in the Wood, not knowing any thing of the intended Murther. And the ſaid perſons being diſappointed of their intentions, did retire to their boats, the ſaid Sir <hi>Iames</hi> flying at that time to the <hi>Iſle of A<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>re<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </hi> to ſhelter himſelf under the Protection of the now Ducheſs of <hi>Hamilton,</hi> who did reſide there for the time. Like as immediatly thereafter the ſaid <hi>Marqueſs</hi> of <hi>Argyle</hi> and his accomplices, failing of their ſaid intended Mur<g ref="char:EOLhyphen"/>ther, the ſaid <hi>Marqueſs</hi> did deſire a Warrant from the Com<g ref="char:EOLhyphen"/>mittee of Parliament, in the ſaid year 165<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>. for apprehending the ſaid Sir <hi>Iames Lamond,</hi> intending thereby to proſecute the aforeſaid Murther; which warrant was then refuſed to be granted to him, as leaſt the ſaid Defendants, &amp; particularly the ſaid <hi>Mar<g ref="char:EOLhyphen"/>queſs</hi> of <hi>Argyle</hi> or one or other of them, were Authors, Actors, Aiders, Abettors, Aſſiſtors, Contrivers, Countenancers, of the aforeſaid crimes of Murder and oppreſſion, and others aforeſaid.</p>
+            <p>Twelfthly, And further to evidence the aforeſaid perſons De<g ref="char:EOLhyphen"/>fendants, and particularly the ſaid <hi>Marqueſs</hi> of <hi>Argyle,</hi> their cruelty and oppreſſion againſt the ſaid Sir <hi>Iames,</hi> the ſaid <hi>Mar<g ref="char:EOLhyphen"/>queſs</hi> in the Month of <gap reason="blank" extent="1 word">
+                  <desc> _____ </desc>
+               </gap> 1647, or thereabouts, came to our houſe of <hi>Dunſtaſneiche,</hi> where the ſaid Sir <hi>Iames</hi> had been kept moſt unjuſtly and unwarrantably priſoner ſeveral years be<g ref="char:EOLhyphen"/>fore, and ſending to him the late deceaſed <hi>Archibald Campbell</hi> keeper of our ſaid Caſtle under the ſaid <hi>Marqueſs, C<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>in Camp<g ref="char:EOLhyphen"/>bell</hi>
+               <pb n="19" facs="tcp:169356:11"/>of <hi>Loch<gap reason="illegible" resp="#UOM" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ell,</hi> and <hi>Do<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>gall Campbell alias Mack<gap reason="illegible" resp="#UOM" extent="5 letters">
+                     <desc>•••••</desc>
+                  </gap>chie</hi> of <hi>Inner<gap reason="illegible" resp="#UOM" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>,</hi> as Commiſſioners, with certain propoſalls following, <hi>viz.</hi> Firſt, that the ſaid Sir <hi>Iames</hi> ſhould renounce and for ever overgive all right, title and intereſt, he had to his own pro<g ref="char:EOLhyphen"/>perty, and his vaſſalls ſuperiority. And upon condition alſo, that the ſaid Sir <hi>Iames,</hi> ſhould under his own hand abjure <hi>Scot<g ref="char:EOLhyphen"/>land,</hi> and never to be ſeen therein: which being done the ſaid <hi>Marqueſs</hi> ſaid he would give to Sir <hi>Iames</hi> a conſiderable ſum, threatning alſo that if the ſaid Sir <hi>Iames</hi> would refuſe the ſaid offer, ſo long as the ſaid <hi>Marqueſs</hi> had an houſe in the World, the ſaid Sir <hi>Iames</hi> ſhould be priſoner therein, and ſhould tor<g ref="char:EOLhyphen"/>ment him with pain and miſery, till the marrow ſhould <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ot within his bones. The ſaid <hi>Marqueſs</hi> declaring alſo, that he hath already poſſeſs'd himſelf of the ſaid Sir <hi>Iames,</hi> and his Vaſſals eſtates, which he ſaid he and his ſhould poſſeſs, in diſpight of thoſe who would or would not. Whereupon the ſaid Sir <hi>Iames,</hi> conſidering with himſelf, within ſome few Months thereafter, that what a priſoner did was Null in Law, and being moſt deſirous of his liberty, from ſo miſerable and ſo long impriſonment, profeſs'd to be willing to grant ſome of the former deſires; the ſaid <hi>Marqueſs</hi> hearing thereof, cauſed carry the ſaid Sir <hi>James</hi> with a guard, to the Town of <hi>Innerarey,</hi> where the ſaid Sir <hi>James</hi> did write ſome few lines, the ſubſtance whereof contained the moſt part of the ſaid <hi>Marqueſs's</hi> de<g ref="char:EOLhyphen"/>ſires. Notwithſtanding whereof, and the ſaid paper was deli<g ref="char:EOLhyphen"/>livered to the ſaid <hi>Marqueſs,</hi> he perſiſting in his former cruel<g ref="char:EOLhyphen"/>ty and oppreſſion, did ſend back the ſaid Sir <hi>James</hi> to priſon, where he remain'd at Our ſaid houſe of <hi>Dunsta<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>neich,</hi> ſo that the ſaid papers ſo ſubſcribed and delivered to the ſaid <hi>Mar<g ref="char:EOLhyphen"/>queſs</hi> and <hi>George Campbell</hi> his Juſtice and Sheriff Deputy (for which they and their complices ought to be puniſhed as oppreſſors and as actors and art and part of the aforeſaid crimes) and all following upon the ſaid writings and papers ought to be declared void and null.</p>
+            <p>Thirteenthly, the ſaid perſons defendents, and particularly the ſaid <hi>Archibald Marqueſs</hi> of <hi>Argyle</hi> his Friends, and Complice, perſevering in their further oppreſſion, in the moneth of <gap reason="blank" extent="1 word">
+                  <desc> _____ </desc>
+               </gap> 1649. years, cauſed the ſaid deceaſed <hi>Archibald Camp<g ref="char:EOLhyphen"/>bell,</hi>
+               <pb n="20" facs="tcp:169356:12"/>then keeper of our ſaid caſtle of <hi>Dunſtaſneich,</hi> under command of the ſaid <hi>Marqueſs,</hi> compell the ſaid Sir <hi>James</hi> to grant a band to the ſaid <hi>Archibald,</hi> his heires, executors and aſſignes, for payment of the ſumme of four thouſand four hun<g ref="char:EOLhyphen"/>dred Ma<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>s of thereabouts, for alleadging 4. years entertain<g ref="char:EOLhyphen"/>ment in our ſaid Caſtle, where the ſaid Sir <hi>James Lamond</hi> was violently, trai<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ouſly and illegally detain'd priſoner: Unto the which Band the ſaid <hi>Marqueſs</hi> be aſſign'd, he did intend action thereupon before the Engliſh Judges, and for that and certain other pretended debts, which were payed, the ſaid <hi>Marqueſs</hi> tooke forth caption againſt the ſaid Sir <hi>James,</hi> intend<g ref="char:EOLhyphen"/>ing thereby to proſecute his forethought cruelties and oppreſſi<g ref="char:EOLhyphen"/>ons, and to incarcerat him, for obtaining his former deſigns. And ſo the ſaid <hi>Marqueſs</hi> by acceptation of the ſaid aſſignati<g ref="char:EOLhyphen"/>on, purſued thereupon his impriſonments, threatnings and o<g ref="char:EOLhyphen"/>thers above and after ſpecifyed.</p>
+            <p>Fourteenthly, the ſaid <hi>George Campbell</hi> Juſtice under the ſaid <hi>Marqueſs,</hi> ſtill continuing in his former cruelties and op<g ref="char:EOLhyphen"/>preſſion, in the moneth of <gap reason="blank" extent="1 word">
+                  <desc> _____ </desc>
+               </gap> 1647, years or thereabouts, not onely contrary to his ſaid Majeſties Com<g ref="char:EOLhyphen"/>miſſion, but alſo contrary to the Articles of Capitulation, our Laws and Acts of Parliament, having taken <hi>Patrick Lamond</hi> F<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>are of <hi>Eſcog,</hi> and <hi>John Lamond</hi> of <hi>Auchingylle</hi> out of the ſaid Caſtle of <hi>Eſcog,</hi> after they had <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>endred the ſaid Caſtle upon the Capitulation above-mentioned, having detain'd them priſoners, the one in the Caſtle of <hi>Car<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ick,</hi> and the other in the Caſtle of <hi>Inchc<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ntill,</hi> for the ſpace of a year and three quarters, till the <gap reason="blank" extent="1 word">
+                  <desc> _____ </desc>
+               </gap> day of <hi>January</hi> 1648. years. At the which <gap reason="illegible" resp="#PDCC" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>e the ſaid <hi>Marqueſs,</hi> and the ſaid <hi>George</hi> his Deputy, cauſed call a pretended Court of Juſtice at the ſaid Town of <hi>Innerra<g ref="char:EOLhyphen"/>rey;</hi> where having conv<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>en'd the ſaid <hi>Patrick Lamond</hi> Flate of <hi>Eſcog.</hi> and <hi>John Lamond</hi> of <hi>Auchingyll,</hi> at the ſaid Town did call an Aſſize, conſiſting of High-land-men, under power of the ſaid <hi>Marqueſs,</hi> and his Deputy their Juſticiarie, being alſo their dependents and followers, and of the ſaid <hi>George</hi> his making uſe of, for the moſt part, for murthers and oppreſſions. Which Aſſize having convicted the ſaid <hi>Patrick Lamond</hi> Fiare of <hi>Eſcog,</hi> and having abſolved the ſaid <hi>John Lamond,</hi> in reſpect
+<pb n="21" facs="tcp:169356:12"/>of ſome favours done to them, the ſaid <hi>George Campbell</hi> never<g ref="char:EOLhyphen"/>theleſſe cauſed the ſaid pretended inqueſt thereafter to meet, contrary to the expreſſe Law and Act of Parliament; the ſaid <hi>George</hi> ſaying, that it was not fit that one young-man ſhould die alone: Conform to the which unjuſt and illegal command and direction, the aforeſaid perſons of the Aſſize did meet a<g ref="char:EOLhyphen"/>gain, and did convict the ſaid <hi>John Lamond</hi> alſo, who by vertue of the ſaid <hi>George</hi> his unjuſt and unlawfull ſentence, the ſaid two <hi>Gentlemen</hi> were hanged to death at <hi>Innerarey.</hi> Like as the ſaid <hi>Marqueſs</hi> of <hi>Argyle</hi> his concurſe, countenancing and promoting of the ſaid cruell murthers and oppreſſions, the ſaid <hi>Marqueſs</hi> by himſelf, <hi>Iames Campbell</hi> of <hi>Ardkinglas,</hi> and their Complices have ſtill poſſeſs'd the Lands of <hi>Eſcog,</hi> and <hi>Auchin<g ref="char:EOLhyphen"/>gyll,</hi> belonging to the ſaid two murthered Gentlemen; where<g ref="char:EOLhyphen"/>of they are yet ſtill in poſſeſſion to this ſame very hour: the ſaid <hi>John Lamond</hi> leaving two Children behind him, the Eldeſt of them not two years old, to whom the ſaid <hi>Marqueſs</hi> refuſed to give any ſupply or entertainment; they living ſtill as yet upon the charity of the people. Likeas the ſaid <hi>Marqueſs</hi> of <hi>Argyle</hi> doth moſt violently, illegally and unjuſtly, poſſeſſe the lands belonging to <hi>Iohn Lamond</hi> of <hi>Auchinſhelloch,</hi> who for age and infirmity, as ſaid is, was cruelly murthered at the ladder foot in manner above-written. At leaſt the ſaid perſons defendents; and particularly the ſaid <hi>Marqueſs</hi> of <hi>Argyle, George Campbell</hi> his Juſtice and Sheriff-Deputy, <hi>Iames Campbell</hi> of <hi>Ardkinglas,</hi> or one or other of them were Authors, Aiders, Abettors, Aſſi<g ref="char:EOLhyphen"/>ſters, Promoters, Counſellers, Contrivers and Art and Part of the ſaid wicked murthers, oppreſſions, burnings, robberie, and other Deeds, and malvers actions above-written. And fur<g ref="char:EOLhyphen"/>ther, to manifeſt the ſaid <hi>Marqueſs</hi> of <hi>Argyle, George Camp<g ref="char:EOLhyphen"/>bell</hi> his ſaid Juſtice and Sheriff-Deputy, and their Complices, their cruelty and oppreſſion, they or one or other of them in the moneth of <gap reason="blank" extent="1 word">
+                  <desc> _____ </desc>
+               </gap> 1648. years, having at that time murthered the ſaid <hi>Patrick Lamond</hi> younger of <hi>Eſcog</hi> as afore<g ref="char:EOLhyphen"/>ſaid, they cauſed immediately thereafter bring before them, <hi>Duncan Lamond</hi> of <hi>Str<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>nalbanoch</hi> his Uncle and old man, being then priſoner at Caſtle <hi>Lanchlane,</hi> to the Town of <hi>Innerrarey:</hi> threatning him, that if he would not renounce and diſpoſe his
+<pb n="22" facs="tcp:169356:13"/>Right of the whoſe Lands of <hi>Re<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>es,</hi> which he bold of the Land of <hi>Lamond,</hi> then they would cauſe hang him, as his N<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>hew was immediately before. Likeas for ſafety of his life, the ſaid <hi>Duncan Lamond</hi> did grant a diſpoſition of his ſaid Lands of <hi>Re<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>res,</hi> to the ſaid <hi>Marqueſs</hi> of <hi>Argyle,</hi> and did deliver to him the whole writings thereof, conform whereunto the ſaid <hi>Marqueſs</hi> con<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> ſtill in poſſeſſion.</p>
+            <p>And in like manner the ſaid <hi>Marqueſs of Argyle, George Campbell</hi> his Juſtice and Sheriff-deputy, and their ſaid Com<g ref="char:EOLhyphen"/>plices, by their power and warrant have poſſeſt and do poſſeſſe the Lands belonging to the ſaid <hi>Iames Lamond, viz.</hi> The Lands called <hi>Archibald Rey-Stewart,</hi> the Sixt-mark land of <hi>Ochre<g ref="char:EOLhyphen"/>rhe<gap reason="illegible" resp="#PDCC" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>,</hi> the lands of <hi>Craignifr<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>che:</hi> on which lands of <hi>Craigni<g ref="char:EOLhyphen"/>fr<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>che</hi> the ſaid Marqueſs had his own Bow<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>en and Heards, keeping thereon a number of his own proper goods ſeverall years: The ſaid Marqueſs poſſeſſing alſo ſeveral other lands both in property and ſuperiority belonging to the ſaid Sir <hi>Iames,</hi> the Marqueſs having no right thereto, but poſſeſſing the ſame by meer oppoſition. Of the which crimes of Oppreſſion and others above ſpecified, the ſaid <hi>Marqueſs of Argyle, George Campbell</hi> Juſtice and Sheriff-deputy to the ſaid Marqueſs, <hi>Iames Campbell</hi> of <hi>Ardkinglas,</hi> Officer under the ſaid Marqueſs's com<g ref="char:EOLhyphen"/>mand, and remanent Defendents, were authors, actors, aiders, abettors, aſſiſters, contrivers, promoters, and art and part. And fu<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ther, the ſaid <hi>Marqueſs of Argyle, George Campbell</hi> his Juſtice and Sheriff-deputy, and their Complices and remanent Defendants above named, or one or other of them, in the moneth of <gap reason="blank" extent="1 word">
+                  <desc> _____ </desc>
+               </gap> 1648. years, of thereabout, did ſeiſe and apprehend the perſon of <hi>Dongall Mackl<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>gall</hi> of <hi>D<gap reason="illegible" resp="#PDCC" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>a<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ch,</hi> after he had ſurrendred the houſe of <hi>Dru<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>lick,</hi> upon a ſub<g ref="char:EOLhyphen"/>ſeryv'd Capitulation under the hands of Lieutenant General <hi>David Leſley</hi> for his life, liberty and eſtate. Notwithſtanding whereof the ſaid Marqueſs and his ſaid ſervant, or either of them and their Complices, cauſed incarcerate the ſaid <hi>Dongall Mackl<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>gall</hi> in the houſe of <hi>Inche<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ill,</hi> laying Irons upon him; who being in miſerable torment for the ſpace of a year and a half and above, was enforced at the ſaid Marqueſs's deſire to be free of the woful Impriſonment and torture, to grant to him
+<pb n="23" facs="tcp:169356:13"/>a diſpoſition and renunciation of the ſaid <hi>Dongall's</hi> lands of <hi>Barninggarr;</hi> whereof the ſaid Marqueſs is ſtill in poſſeſſion ſince the ſaid year 1648. Of the which cruel acts of Oppreſſi<g ref="char:EOLhyphen"/>on, particularly the ſaid <hi>Marqueſs of Argyle</hi> and <hi>George Camp<g ref="char:EOLhyphen"/>bell</hi> his ſervant, or one or other of them, were authors, aiders, abettors, aſſiſters, countenancers, promoters, and art and part. And in like manner, <hi>Duncan Campbell of Elangreg</hi> moſt treche<g ref="char:EOLhyphen"/>rouſly, traiterouſly and perfidiouſly, after ſubſcryving of the Capitulation by him granted to the ſaid Sir <hi>Iames,</hi> his friends and followers, being a member of the Conventicle, and meet<g ref="char:EOLhyphen"/>ing at the foreſaid cruel and wicked murders committed at <hi>De<g ref="char:EOLhyphen"/>no<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>,</hi> was a main author, actor, abettor, aſſiſter, contriver and promoter of the ſaid wicked murder committed there. Likeas thereafter the ſaid <hi>Duncan Campbell</hi> did take unlawful poſſeſſi<g ref="char:EOLhyphen"/>on of <hi>Leymont Lamond of Cowſton's lands</hi> of <hi>Str<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>an</hi> and <hi>Cowſton,</hi> and alſo the lands of <hi>Trowſtonne</hi> and <hi>Ardbeg,</hi> belonging to the ſaid Sir <hi>Iames</hi> and <hi>Leymount.</hi> And alſo the ſaid <hi>Duncan Camp<g ref="char:EOLhyphen"/>bell</hi> with certain of his Complices, in the moneth of <hi>March</hi> 1646. years, came from his own houſe to the ſaid lands of <hi>Coſtoun</hi> and <hi>Str<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>an,</hi> and there murdered early in the morning of men and children to the number of forty perſons, viz. <hi>Ar<g ref="char:EOLhyphen"/>chibald Lamond in Auchinf<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>re, Iohn Lamond there, <gap reason="blank" extent="1 word">
+                     <desc> _____ </desc>
+                  </gap> L<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>mond</hi> ſon to <hi>Ewen Lamond</hi> there a child, <hi>Archibald Lamond</hi> of <hi>Rive, C<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ll Lamond</hi> his onely ſon a child, <hi>Ewen Lamond</hi> in <hi>Midtowars, Duncan Lamond</hi> his brother, <hi>Donald Mack<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>eill</hi> ſervant to the ſaid Sir <hi>Iames Lamond, Donald Macklanchlane</hi> in <hi>Kilmichael, Finlay Mackilbreid, Donald Makilbreid</hi> his bro<g ref="char:EOLhyphen"/>ther, two of the name of <hi>Mackalaſters</hi> ſons to <hi>Archibald Mackalaſter</hi> in <hi>Killer<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ane; <gap reason="blank" extent="1 word">
+                     <desc> _____ </desc>
+                  </gap> Macklelland</hi> in <hi>Knock<g ref="char:EOLhyphen"/>millie, Robert Moodie</hi> in Caſtle <hi>Towart, Iohn Mackiller</hi> ſervant to the ſaid Sir <hi>Iames, Harry Lamond, Archibald Mackperſon, Iohn Mitchelſon, Iohn Leith, Dongall Leith,</hi> and ſeveral others. As alſo the ſaid <hi>Duncan Campbell</hi> moſt traiterouſly, treche<g ref="char:EOLhyphen"/>rouſly and perfidiouſly, with the ſaid Defendents his Compli<g ref="char:EOLhyphen"/>ces, were main actors, abettors, aſſiſters, and art and part of the burning of the ſaid Sir <hi>Iames</hi> his houſe of <hi>Towart,</hi> taking away the goods and pleniſhing therein, deſtroying of the ſaid Sir <hi>Iames</hi> his own men, Tenancs, Vaſſals and Servants; robbing
+<pb n="24" facs="tcp:169356:14"/>and taking away of their goods the forſaid years 1645, and 1546, in one or other of the moneths thereof. Of the which treaſonable deeds, murders, fire-raiſings, oppreſſions, robbe<g ref="char:EOLhyphen"/>ries, and other cruel acts and malverſations above mentioned, the ſaid perſons Defendants, and particularly the ſaid <hi>Marqueſs of Argyle</hi> the ſaid <hi>Duncan Campbell,</hi> an Officer under the ſaid Marqueſſe's command, <hi>George Campbell</hi> Sheriff and Juſtice-deputy, of one of them, were authors, actors, aiders, abetters, aſſiſters, contrivers and promoters of the ſame. And in like manner <hi>Robert Campbell</hi> of <hi>A<gap reason="illegible" resp="#UOM" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>ng,</hi> and remanent de<g ref="char:EOLhyphen"/>fendents aforeſaid, or one or other of them, moſt baſely and perfidiouſly, after the ſaid Capitulation, and contrary thereto and Our ſaid Lawes and Acts of Parliament above-written, in moneth of <gap reason="blank" extent="1 word">
+                  <desc> _____ </desc>
+               </gap> or one or other of the moneths above ſpecified, in the year of God, 1646. 1647. 1648. 1649. 1650. 1651. 1652. 1653. 1654. or one or other of the ſaid years, did violently reave and carry away, ſeverall of the ſaid Sir <hi>Iames's</hi> 
+               <gap reason="illegible" resp="#UOM" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> pleniſhing, and did deſtroy and cut down the whole plantings in and about the ſaid Sir <hi>Iames</hi> his houſe of <hi>T<gap reason="illegible" resp="#UOM" extent="5 letters">
+                     <desc>•••••</desc>
+                  </gap>,</hi> Orchards, Parks and Walks thereof; and did ſell, uſe and diſpo<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e thereupon, burning ſpailes and branches of the ſaid Trees, ſocurred upon the roots of the ſame, that they might never grow thereafter, demoliſhing the walls of the ſaid houſe, taking away the great hewed ſtones thereof, and build<g ref="char:EOLhyphen"/>ing therewith houſes to himſelf. And alſo being preſent at the ſaid bloudy and cruel murders committed at <hi>De<gap reason="illegible" resp="#UOM" extent="4 letters">
+                     <desc>••••</desc>
+                  </gap>e,</hi> and a main actor, aider, abettor, aſſiſter, counſellor and promoter thereof; as alſo was a main actor, aider, abettor, aſſiſter, and a<gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap> and part of the great burnings, hairſhips, and tyffs commit<g ref="char:EOLhyphen"/>ted by the ſaid Defendants, or one or other of them, of the ſaid Sir <hi>Iames</hi> his own men, tenants, Vaſſals and ſervants houſes, in the year of God 1645. and 1646. in one or other of the moneths thereof. Of the which cruel crimes, deeds and mal<g ref="char:EOLhyphen"/>verſations above written the ſaid <hi>Robert Campbell</hi> of <hi>Auchin<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>illing,</hi> and the ſaid defendents, or one or other of them were main Actors, Aiders, <hi>&amp;c.</hi> And alſo the ſaid <hi>John Campbell</hi> of <hi>Ardtariche</hi> and remanent defendents above written, or one or other of them, in the ſaid moneth of <hi>Iune</hi> 1646. years, moſt
+<pb n="25" facs="tcp:169356:14"/>villanouſly contrary to the ſaid Capitulation, was acceſſory to the burning of the ſaid Sir <hi>Iames</hi> his houſe of <hi>Towart,</hi> and in the ſaid moneth was preſent at the meeting, and a main Coun<g ref="char:EOLhyphen"/>ſeller, Aider, Abetter or Aſſiſter of the ſaid Cruell and Bloudy Murthers, committed at the Village of <hi>Dencone.</hi> And to make the Premiſes manifeſtly appear, the ſaid <hi>Iohn Campbell,</hi> by meet Oppreſſion having poſſeſt the Lands belonging to the <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e<g ref="char:EOLhyphen"/>ceas'd <hi>Dancan Lamond</hi> a Murthered perſon, particularly the Lands of <hi>Knockdaw, Innerchellane,</hi> the Lands of <hi>Lettingall</hi> and <hi>Towart fleeming:</hi> And in like manner having by Oppreſſion alſo poſſeſt himſelf of the Lands of <hi>Gortamlesk, Kilmarnock</hi> and <hi>Brackleys,</hi> pertaining to the ſaid Sir <hi>Iames;</hi> Taking away alſo before the burning of his ſaid houſe, ſeverall of the houſhold<g ref="char:EOLhyphen"/>ſtuff and pleniſhing therein. Of the which Deeds and other Crimes above written, the ſaid <hi>Iohn Campbell</hi> of <hi>Ardtariche,</hi> and remanent Defendents aforeſaid, or one or other of them were Authors, Aiders, &amp;c.</p>
+            <p>And further Mr. <hi>Colin Macklanchlane,</hi> Miniſter at <hi>Lochgo<g ref="char:EOLhyphen"/>liſheed,</hi> being preſent at the meeting in the ſaid Village of <hi>De<g ref="char:EOLhyphen"/>n<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>one,</hi> in the ſaid moneth of <hi>Iune</hi> 1646. moſt Villanouſly and Treacherouſly contrary to the ſaid Capitulation, was a main Counſeller, Actor, Author, Aides, Aſſiſter, Abettor, Promo<g ref="char:EOLhyphen"/>ter and Art and Part of the foreſaid cruell murthers, commit<g ref="char:EOLhyphen"/>ted at the ſaid Village of <hi>Dencone.</hi> And further the ſaid <hi>James Campbell</hi> of <hi>Ardkinglas</hi> Officer under the ſaid <hi>Mar<g ref="char:EOLhyphen"/>queſs's</hi> command accompanied with his Regiment in the Low<g ref="char:EOLhyphen"/>lands, at the Village of the <hi>L<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>rgis,</hi> in the moneth of <gap reason="blank" extent="1 word">
+                  <desc> _____ </desc>
+               </gap> 1645. adding to his former <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>uelties, one <gap reason="blank" extent="1 word">
+                  <desc> _____ </desc>
+               </gap> 
+               <hi>La<g ref="char:EOLhyphen"/>mond</hi> a begger comming to the ſaid <hi>James Campbell,</hi> and cra<g ref="char:EOLhyphen"/>ving his charity, the ſaid <hi>James</hi> cauſed apprehend the ſaid begger, and moſt cruelly cauſed <hi>murther and hang him,</hi> without any ground or warrant. Of the which cruell Crime of Murther the ſaid <hi>Iames Campbell</hi> of <hi>Ardkinglas,</hi> and the ſaid Defendents, or one or other of them were Authors, Actors, Abettors, &amp;c. And moreover the ſaid <hi>Iames Campbell</hi> of <hi>Ardkinglas,</hi> Officer under the ſaid Marqueſs his command, and remanent perſons Defendents aforeſaid, intending never to put a period to th<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>i<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> cruelty, ſo long as any of the name of <hi>L<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>mond,</hi> and their friends
+<pb n="26" facs="tcp:169356:15"/>and followers were left in the moneth of <gap reason="blank" extent="1 word">
+                  <desc> _____ </desc>
+               </gap> 1646. the ſaid <hi>Iames Campbell</hi> being accompanied with his ſaid Regi<g ref="char:EOLhyphen"/>ment in the Lovelands, there being brought to him by <hi>Ang<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> Mackil<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>r<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ck, Der<gap reason="illegible" resp="#PDCC" extent="4 letters">
+                     <desc>••••</desc>
+                  </gap> Campbell,</hi> and the deceas'd <hi>Francis Campbell</hi> his Brother, one <hi>Iohn Machpatrick</hi> alias <hi>Lamond,</hi> the ſaid <hi>Iames Campbell</hi> of <hi>Ardkinglas,</hi> and remanent Defendents aforeſaid, or one or other of them, cauſed cruelly murther and hang the ſaid <hi>Iohn Machp<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>trick</hi> alias <hi>Lamond,</hi> and that without any ground or warrant. Of the which crime of murther, the ſaid Defendants, or one or other of them, and particularly the ſaid <hi>Iames Campbell</hi> of <hi>Ardkinglas,</hi> were authors, actors, aiders, abettors, aſſiſters, or art and part.</p>
+            <p>And alſo, <hi>Alexander Campbell</hi> of <hi>Penny<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ir,</hi> with certain of his followers and complices, upon the moneth of <gap reason="blank" extent="1 word">
+                  <desc> _____ </desc>
+               </gap> 1645. years, did ceaſe and apprehend, in the Iſle of <hi>Comeraw,</hi> one <hi>Robert Lamond</hi> Merchant reſidenter in <hi>Ireland,</hi> from whence having come about his lawful occaſions, to the ſaid Iſle of <hi>Co<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>raw,</hi> the ſaids perſons did moſt cruelly and villainouſly murther and ſhoot the ſaid <hi>Robert Lamond</hi> to death, at the ſaid Iſle: of the which cruell murther the ſaids Defendents, or one of other of them, and particularly the ſaid <hi>Alexander Campbell</hi> of <hi>Pe<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>n<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>m<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ir,</hi> were authors, actors, aiders, abettors, aſſiſters, or art and part. And likewiſe the ſaid <hi>George Campbell,</hi> Juſtice and Sheriff-Deputy to the ſaid Marqueſs of <hi>Argyle,</hi> ſtill perſiſting in his wonted cruelties and murthers, in the moneth of <gap reason="blank" extent="1 word">
+                  <desc> _____ </desc>
+               </gap> 1645. years, cauſed murther and hang one <hi>Iohn Don Maclanch<g ref="char:EOLhyphen"/>lan</hi> of <hi>Ard<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>d<gap reason="illegible" resp="#PDCC" extent="4 letters">
+                     <desc>••••</desc>
+                  </gap>,</hi> at the ſaid Town of <hi>I<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>rary,</hi> and that with<g ref="char:EOLhyphen"/>out any ground o<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> warrant. Of the which cruell murther, the ſaids Defendents, or one or other of them, and particularly the ſaid <hi>George Campbell,</hi> were authors actors, aiders, abetters, aſ<g ref="char:EOLhyphen"/>ſiſters, of art and part.</p>
+            <p>And further, the ſaid <hi>Archibald Marqueſs</hi> of <hi>Argyle,</hi> and <hi>George Campbell</hi> his Juſtice and Sheriff-Deputy, likely never to make <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>n end of their cruelty, in the moneth of <gap reason="blank" extent="1 word">
+                  <desc> _____ </desc>
+               </gap> 1647. years, or thereby, did moſt barbarouſly, cruelly, and un<g ref="char:EOLhyphen"/>ch<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>i<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nly, murther and cut off <hi>Hector Macallaſter</hi> of <gap reason="blank" extent="1 word">
+                  <desc> _____ </desc>
+               </gap> and his two Sons, at <hi>L<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>chhead</hi> in <hi>Ki<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>yre,</hi> they being His Majeſties free Lieges, having received Capitulation from the
+<pb n="27" facs="tcp:169356:15"/>ſaid Lieutenant General <hi>David Leſley,</hi> for life, lands, eſtate and goods; who according to the ſaid Capitulation did go home to their dwelling houſe, living peaceably: Notwithſtanding where<g ref="char:EOLhyphen"/>of the ſaid <hi>Archibald Marqueſs</hi> of <hi>Argyle</hi> and the ſaid <hi>George Campbell</hi> his ſaid Juſtice and Sheriff-Deputy, ſending ſo the ſaid <hi>Hector Macallaſter</hi> and his ſaid two Sons, comming and fear<g ref="char:EOLhyphen"/>ing nothing, they moſt traiterouſly and villainouſly, contrary to the ſaid Capitulation, cauſed to murthe<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> and hang the ſaids per<g ref="char:EOLhyphen"/>ſons at <hi>Lochhead</hi> in <hi>Kintyre.</hi> Of the which cruell murders the ſaids Defendents, or one or other of them, and particularly the ſaid <hi>Archibald Marqueſs</hi> of <hi>Argyle</hi> and <hi>George Campbell</hi> his Ju<g ref="char:EOLhyphen"/>ſtice and Sheriff-Deputy were authors, actors, aiders, abetters, contrivers, aſſiſters, and promoters or art and part thereof. As alſo <hi>Archibald Campbell Evinnochan,</hi> Son-in-Law to the Laird of <hi>Otter</hi> in the moneth of <gap reason="blank" extent="1 word">
+                  <desc> _____ </desc>
+               </gap> or one or other of the moneths reſpective above written, in the year 1646. was ac<g ref="char:EOLhyphen"/>ceſſory, art and part, and aider, abetter, and aſſiſter of the fore<g ref="char:EOLhyphen"/>ſaids cruell and wicked murders, committed at the lands of <hi>Stroane,</hi> and at the foreſaid village of <hi>Den<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>on,</hi> being acceſſory alſo to the robbing and taking away of the houſhold-ſtuff and pleniſhing of the ſaid Sir <hi>Iames</hi> his ſaid houſe of <hi>Towart,</hi> and of the burning of the ſame. Of the which cruell acts of murders, robberies, and fire-raiſing, the ſaid <hi>Archibald Campbell</hi> was actor, author, abetter, aſſiſter, contriver, counſellour, promoter, and art and part thereof.</p>
+            <p>And likewiſe the ſaid <hi>Marqueſs</hi> of <hi>Argyle</hi> and <hi>George Camp<g ref="char:EOLhyphen"/>bell</hi> his Juſtice and Sheriff-Deputy, or one or other of them, in the moneth of <gap reason="blank" extent="1 word">
+                  <desc> _____ </desc>
+               </gap> or one or other of the ſaids moneths above written, in the year of God 1639. or thereby, cauſed ſeaſe upon and apprehend Col. <hi>Mac Gillespy,</hi> alias <hi>Mac Donnald,</hi> he being then His Majeſties free Liege, incarcecate him in our ſaid houſe of <hi>Dunſtafneich,</hi> where he remained pri<g ref="char:EOLhyphen"/>ſoner till the year 1645. at which time being excambet after the battell of <hi>Inverlochie,</hi> he was taken priſoner in <hi>Ila</hi> in the year 1647. being then in His Majeſties ſervice, and within few days or weeks thereafter, the ſaid <hi>Marqueſs</hi> and the ſaid <hi>George</hi> cau<g ref="char:EOLhyphen"/>ſed moſt cruelly hang the ſaid Col. <hi>Mac Gillespy,</hi> at our ſaid houſe of <hi>Dunſtafneich.</hi> And further, the ſaids <hi>Archibald Mar<g ref="char:EOLhyphen"/>queſs</hi>
+               <pb n="28" facs="tcp:169356:16"/>of <hi>Argyle</hi> and <hi>George Campbell</hi> his Sheriff and Juſtice De<g ref="char:EOLhyphen"/>puty, or one or other of them upon the moneth of <gap reason="blank" extent="1 word">
+                  <desc> _____ </desc>
+               </gap> or one or other of the moneths above written, in the year 1647. or 1648. cauſed cruelly murther and hang <hi>Ronnald Macdon<g ref="char:EOLhyphen"/>nald</hi> Son to the ſaid Col. at <hi>In<gap reason="illegible" resp="#UOM" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>rary.</hi>
+            </p>
+            <p>And alſo the ſaid <hi>Marqueſs</hi> of <hi>Argyle</hi> and <hi>George Campbell</hi> his Juſtice and Sheriff-Deputy, moſt treacherouſly, traſterouſly, and perfidiouſly cauſed cruelly murther and hang, in the moneth of <gap reason="blank" extent="1 word">
+                  <desc> _____ </desc>
+               </gap> or one or other of the moneths above written, in the year of God 1647. <hi>Alexander Maccoll Vick<gap reason="illegible" resp="#UOM" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>nald</hi> alias <hi>Mackallaſter</hi> in <hi>K<gap reason="illegible" resp="#UOM" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>ichell</hi> of <hi>L<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>rgy,</hi> notwithſtanding of a Capi<g ref="char:EOLhyphen"/>tulation granted by the ſaid <hi>Marqueſs</hi> of <hi>Argyle</hi> and Lieutenant Generall <hi>Leſ<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>y,</hi> or one or other of them: Of the which three cruell murders immediately preceding, committed at <hi>Inverary</hi> and <hi>Dunſt<gap reason="illegible" resp="#UOM" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>eich</hi> the ſaid Defendents, or one or other of them, and particularly the ſaids <hi>Archibald Marqueſs</hi> of <hi>Argyle,</hi> and <hi>George Campbell,</hi> his Juſtice and Sheriff-Deputy, were authors, actors, aiders, abettors, aſſiſters, adviſers, countenancers, and pro<g ref="char:EOLhyphen"/>moters, o<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> art and part.</p>
+            <p>Of the which treaſonable crimes, Murders, Robberies, Op<g ref="char:EOLhyphen"/>preſſions, and all other crimes, miſdeeds, and malverſations above mentioned, or one or other of them, the forenamed perſons above complained upon, and every one of them, at leaſt one or other of them, were Actors, Authors, Abetters, Aſſiſters, Countrivers, Deviſers, Conſulters, Adviſers, or Art and Part. And thereby they and each one of them, at leaſt one or other of them, have incurred the reſpective pains and puniſhments, preſcribed by our ſaid Laws, and Acts of Parliament, <hi>viz.</hi> the forfeiture of Life, Lands, Dignity, Eſtates, and Goods, and the benefit thereof to be applyed to our uſe, or ſuch uſe as we and our ſaid Eſtates of Parliament, or theſe impowered by us for that effect ſhall appoint; at the leaſt have incurred ſuch other cenſure and puniſhment, in their Bodies, Names, Fames, Eſtate, and Goods, as we and our ſaid Eſtates of Parliament, or thoſe impowered or authorized by us for that effect, ſhall think fit, to be applyed, as ſaid is, according to the nature and quality of their ſeverall crimes, miſdeeds and malverſations, done and committed by them, which ought and ſhould be
+<pb n="29" facs="tcp:169356:16"/>inflicted upon them with all rigour, in example of others.</p>
+            <p>Our Will is herefore, and we Charge you that you law<g ref="char:EOLhyphen"/>fully Summon, Warne, and Charge, the whole forenamed perſons, Defendents, above named as followeth, <hi>viz.</hi> ſo many of them as are within this our Realme of <hi>Scotland,</hi> perſonally, if they can be apprehended, and failing thereof, at their dwel<g ref="char:EOLhyphen"/>ling places, and by open Proclamation at the Market Croſſes of the head Borroughs of our Sheriffdomes, or other Jurisdi<g ref="char:EOLhyphen"/>ctions within the which they dwell; and ſo many of them as are without the ſame, by open Proclamation at the Market Croſſe of our Burgh of <hi>Edinbargh,</hi> peir and ſhore of <hi>Leith,</hi> upon threeſcore days warning, to appear perſonally before us and our Eſtates of Parliament, or thoſe impowered or authorized by us for that effect, at <hi>Edinburgh,</hi> or where it ſhall happen them to be for the time, the <gap reason="blank" extent="1 word">
+                  <desc> _____ </desc>
+               </gap> day of <gap reason="blank" extent="1 word">
+                  <desc> _____ </desc>
+               </gap> with continuation of days to anſwer at the inſtance of our ſaid Advocat, for our intereſt, and at the inſtance of the ſaid Sir <hi>James Lamount,</hi> for himſelf, and in name and behalf foreſaid for his intereſt above written. That is to ſay, the ſaids Defendents, to h<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>r and ſee it found and declared, verified and proved, in preſence of our ſaids Eſtates of Parliament, or ſuch as ſhall be autho<g ref="char:EOLhyphen"/>rized by us and them, that the ſaids Defendents, and every one of them, at leaſt one or other of them, have committed, and are guilty of, the crimes of <hi>High Treaſon,</hi> and other crimes, <hi>Mur<g ref="char:EOLhyphen"/>ders, Robberies, Oppreſſions, Miſdeeds,</hi> and <hi>Malverſations,</hi> re<g ref="char:EOLhyphen"/>ſpective above ſpecified, or one or other of them; at leaſt they and every one of them, or one or other of them, were Au<g ref="char:EOLhyphen"/>thors, Abetters, Contrivers, Deviſers, or Art and Part thereof: and the ſame being ſo verified and proved, to hear and ſee it found and declared, by us and our ſaid Eſtates of Parliament, or thoſe impowered or authorized by us for that effect, that the forenamed perſons, and every one of them, have thereby in<g ref="char:EOLhyphen"/>curred the reſpective pains and puniſhments, preſcribed by our ſaid Laws and Acts of Parliament; and to hear and ſee the ſentence and doom of forfeiture pronunced againſt them for the ſame, <hi>viz.</hi> the forfeiture and loſſe of <hi>Life, Lands, Dig<g ref="char:EOLhyphen"/>nities, Eſtates</hi> and <hi>Goods,</hi> and the benefit thereof to be apply<g ref="char:EOLhyphen"/>ed to our uſe, or ſuch as we or our ſaid Eſtates of Parliament,
+<pb n="30" facs="tcp:169356:17"/>or thoſe authorized by us for that effect ſhall appoint; at leaſt to hear and ſee themſelves adjudged to be cenſured in their <hi>Perſons, Nature, F<gap reason="illegible" resp="#PDCC" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>es, Eſtates</hi> and <hi>Goods,</hi> as we and out ſaids Eſtates of Parliament of thoſe impowered or authorized by as for that effect, ſhall think fit, according to the nature and quality of their ſeverall Crimes, Miſdeeds and Malverſations, committed and done by them; and to hear and ſee the fore<g ref="char:EOLhyphen"/>ſaid pains and puniſhments decerned to be executed, and in<g ref="char:EOLhyphen"/>flicted upon them, with all rigour, in example of others, at the <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>bitt<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ent and determination of us and our ſaid Eſtates of Parliament, or thoſe impowered and authorized by us for that effect: With certification to the diſobeyers, if they be con<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>um<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>cious and appear not, we and our ſaid Eſtates of Par<g ref="char:EOLhyphen"/>liament, or thoſe empowered and authorized by us, for that effect, will then inſtantly proceed againſt the ſaids Defendants, and every one of them, who does not appear, as <hi>Rebells</hi> and <hi>Traitors,</hi> and guilty of <hi>High Treaſon</hi> againſt Us and our Crown, and the Eſtates of this our antient Kingdome; to the forfeiting of their <hi>Lives, Lands, Eſtates</hi> and <hi>Goods,</hi> to be ap<g ref="char:EOLhyphen"/>plyed, <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> ſaid is <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> and that their abſence and contumacy ſhall be holden, as a manifeſt probation of their guiltineſs, without neceſſary of any further probation. But if they appear and remaine preſent at the whole dyets of the procedure, that then we and our ſaid Eſtates of Parliament, or thoſe impowered and authorized by us for that effect, will proceed againſt the ſaid Defenders upon lawful probation, to the forfeiting of their ſaid Lives, Lands, Eſtates, and Goods, to be applyed as ſaid is; Or otherwiſe by puniſhing and cenſuring of them, according to the nature and quality of their Crimes, Miſdeeds and Malver<g ref="char:EOLhyphen"/>ſations, in their Perſons, Eſtates, Goods, Name and Fame, or ſome other manner of way, as we and our ſaid Eſtates of Parliament, or thoſe impowered or authorized by us for that effect, ſhall think fit and appoint, conforme to our ſentence, decree and determination to be given and pronounced by us againſt the ſaid Defenders therein, according to juſtice, to be called ſummarly without diet, table or continuation of other ſummons; becauſe the foreſaid action is for crimes of <hi>High Treaſon,</hi> and other Acts, Miſdeeds and Malverſations, com<g ref="char:EOLhyphen"/>mitted
+<pb n="31" facs="tcp:169356:17"/>and done by the forenamed perſons againſt us, and the Eſtates, of this our antient Kingdome, and the publick good and peace of the ſame; at leaſt, whereof the forenamed per<g ref="char:EOLhyphen"/>ſons Defendents were Aiders, Abetters, Aſſiſters, Conſulters, Deviſers, Adviſers, or Art and Part. And therefore merits ſummary proceſs, conforme to daily practique, uſed in the like caſes, and an deliverance granted by our Committee of Eſtates theranent. Moreover, that you lawfully Summon, Warne and Charge, to appear before Us, and Our Eſtates of Parliament, or thoſe impowered or authorized by us, for that effect, the ſaids day and place with continuation of days to bear ſeill and ſoothfaſt witneſſing, in ſo far as they know, or ſhall be asked at them, in the ſaid matter, under all higheſt pain and charge that after may follow: As you will anſwer to us thereupon. The which to do we commit to you, conjunctly and ſeverally, our full power by theſe our letters, delivering them by you duly executed, and indorſed again to the bearer.</p>
+            <closer>
+               <dateline>Given under our Signet at <hi>Edinburgh,</hi> 
+                  <date>the twenty eighth day of <hi>December,</hi> and of our reign the twelfth year, 1660.</date>
+               </dateline>
+               <dateline>Edingburgh <date>
+                     <hi>January</hi> 23. 1661.</date>
+               </dateline>
+               <signed>
+                  <hi>Ex deliberatione commiſſionis Parlia<g ref="char:EOLhyphen"/>menti ſic<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ſubſcribitur.</hi> Jo. Cunynghame.</signed>
+               <signed>Signed by warrant from the Parliament. <hi>Sic ſubſcribitur,</hi> W. Sharp.</signed>
+            </closer>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
